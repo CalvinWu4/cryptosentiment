@@ -6,9 +6,7 @@ Articles on various cryptocurrencies were collected from three types of sources:
 
 Mainstream Media source: Google news api
 
-
 Chat Forum source: Reddit api
-
 
 Specialized Media sources: www.coindesk.com & cointelegraph.com
 
