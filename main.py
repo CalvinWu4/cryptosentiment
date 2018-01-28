@@ -33,7 +33,7 @@ class MainPage(webapp2.RequestHandler):
 
         # gets the top 10 cryptocurrencies from the coinmarketcap API
         payload = {'limit': '10'}
-        toptencryptos = requests.get('http://api.coinmarketcap.com/v1/ticker/', params=payload).json()
+        toptencryptos = requests.get('http://api.coinmarketcap.com/v1/ticker/', params=payload, timeout=None).json()
 
         template_values = {
             'cryptos': toptencryptos

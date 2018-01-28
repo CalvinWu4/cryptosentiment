@@ -6,7 +6,7 @@ from scrape_site import get_single_item_text_data
 def cointelegraph_spyder(type):
     # open('specialized_text.txt', 'w').close()  # clear text file
     # text_file = open("specialized_text.txt", "a")  # open text file
-    source_code = requests.get('https://cointelegraph.com/search?query='+type)
+    source_code = requests.get('https://cointelegraph.com/search?query='+type, timeout=None)
     plain_text = source_code.text
     soup = BeautifulSoup(plain_text, 'html.parser')
     text = ''
@@ -21,7 +21,7 @@ def cointelegraph_spyder(type):
 def coindesk_spyder(type):
     # open('specialized_text.txt', 'w').close()  # clear text file
     # text_file = open("specialized_text.txt", "a")  # open text file
-    source_code = requests.get('https://www.coindesk.com/?s='+type)
+    source_code = requests.get('https://www.coindesk.com/?s='+type, timeout=None)
     plain_text = source_code.text
     soup = BeautifulSoup(plain_text, 'html.parser')
     text = ''
