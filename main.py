@@ -23,6 +23,7 @@ import json
 from sentiment_analyzer import get_sentiment_analysis
 from Specialized_Media_Scraper import collect_specialized
 from reddit import getSubmissionsText
+from salience import get_salience
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
@@ -49,22 +50,25 @@ class DataHandler(webapp2.RequestHandler):
 
         data = json.loads(self.request.body)
         name = data['name']
-        print name
         # get data from mainstream sources
         text_mainstream = collect_mainstream(name.replace(' ', '-'))
         sliced_mainstream_text = text_mainstream[:45000]
         mainstream_analysis_result = get_sentiment_analysis(sliced_mainstream_text)
+        salience_mainstream = get_salience(sliced_mainstream_text, name)
 
         # get data from specialized sources
         text_specialized = collect_specialized(name.replace(' ', '-'))
         specialized_analysis_result = get_sentiment_analysis(text_specialized)
+        salience_specialized = get_salience(text_specialized, name)
 
         # get data from reddit posts
-        reddit_result = get_sentiment_analysis(getSubmissionsText())
+        text_reddit = getSubmissionsText()
+        reddit_result = get_sentiment_analysis(text_reddit)
+        salience_reddit = get_salience(text_reddit, name)
 
-        average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) + reddit_result['probability']['neg'] / 3.0
-        average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) + reddit_result['probability']['neutral'] / 3.0
-        average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos']) + reddit_result['probability']['pos'] / 3.0
+        average_neg = (mainstream_analysis_result['probability']['neg']*salience_mainstream + specialized_analysis_result['probability']['neg'])*salience_specialized + reddit_result['probability']['neg']*salience_reddit / 3.0
+        average_neutral = (mainstream_analysis_result['probability']['neutral']*salience_mainstream + specialized_analysis_result['probability']['neutral']) + reddit_result['probability']['neutral']*salience_reddit / 3.0
+        average_pos = (mainstream_analysis_result['probability']['pos']*salience_mainstream + specialized_analysis_result['probability']['pos']) + reddit_result['probability']['pos']*salience_reddit / 3.0
         max_value = max(average_neg, average_neutral, average_pos)
 
         overall_sentiment = 'Neutral'
