@@ -22,6 +22,7 @@ from Mainstream_API_Requests import request
 import json
 from sentiment_analyzer import get_sentiment_analysis
 from Specialized_Media_Scraper import collect_specialized
+from reddit import getSubmissionsText
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
@@ -58,6 +59,9 @@ class DataHandler(webapp2.RequestHandler):
         text_specialized = collect_specialized(name.replace(' ', '-'))
         specialized_analysis_result = get_sentiment_analysis(text_specialized)
 
+        # get data from reddit posts
+        text_reddit = get_sentiment_analysis(getSubmissionsText())
+
         average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) / 2.0;
         average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) / 2.0;
         average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos']) / 2.0;
@@ -74,7 +78,7 @@ class DataHandler(webapp2.RequestHandler):
         response = {
             'mainstream': mainstream_analysis_result,
             'specialized': specialized_analysis_result,
-            'socialMedia': '',
+            'socialMedia': text_reddit,
             'overallSentiment': overall_sentiment
         }
 
