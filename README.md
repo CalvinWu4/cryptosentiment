@@ -8,7 +8,7 @@ Mainstream Media source: Google news api
 
 Chat Forum source: Reddit api
 
-Specialized Media sources: www.coindesk.com & cointelegraph.com
+Specialized Media sources: coindesk.com & cointelegraph.com
 
 
 In most cases, text on each type of cryptocurrency was acquired by interacting with public api thorugh get/post HTTP requests, 
