@@ -58,10 +58,24 @@ class DataHandler(webapp2.RequestHandler):
         text_specialized = collect_specialized(name.replace(' ', '-'))
         specialized_analysis_result = get_sentiment_analysis(text_specialized)
 
+        average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) / 2.0;
+        average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) / 2.0;
+        average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos']) / 2.0;
+        max_value = max(average_neg, average_neutral, average_pos)
+
+        overall_sentiment = 'Neutral'
+        if average_neg == max_value:
+            overall_sentiment = 'Negative'
+        elif average_pos == max_value:
+            overall_sentiment = 'Positive'
+        else:
+            overall_sentiment = 'Neutral'
+
         response = {
             'mainstream': mainstream_analysis_result,
             'specialized': specialized_analysis_result,
-            'social-media': ''
+            'socialMedia': '',
+            'overallSentiment': overall_sentiment
         }
 
         self.response.headers['Content-Type'] = 'application/json'

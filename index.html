@@ -30,7 +30,7 @@
         <div class="container">
           <h1 class="masthead-heading mb-0">Crypto Sentiment</h1>
           <!--<h2 class="masthead-subheading mb-0">Python webapp that shows the public sentiment of various cryptocurrencies</h2>-->
-          <a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">Learn More</a>
+          <!--<a href="#" class="btn btn-primary btn-xl rounded-pill mt-5">Learn More</a>-->
         </div>
       </div>
       <div class="bg-circle-1 bg-circle"></div>
@@ -51,12 +51,17 @@
           <div class="col-lg-12 order-lg-1">
             <div class="p-5">
               <div id="name-{{crypto.rank}}" style="display: none;">{{ crypto.name }}</div>
-              <h2 class="display-4">{{crypto.rank}}. {{ crypto.name }}({{ crypto.symbol}}) </h2>
+              <h2 class="display-4">{{crypto.rank}}. {{ crypto.name }}&nbsp;({{ crypto.symbol}}) </h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
 
-              <div>
-                <i id="loading-{{crypto.rank}}" class="fa fa-refresh fa-spin fa-3x fa-fw text-center"></i>
-                <canvas style="display: none;" id="bar-chart-{{crypto.rank}}" width="800" height="450"></canvas>
+              <div class="row">
+                <div class="col-lg-8">
+                  <i id="loading-{{crypto.rank}}" class="fa fa-refresh fa-spin fa-3x fa-fw pull-center" width="300" height="100"></i>
+                  <canvas style="display: none;" id="bar-chart-{{crypto.rank}}" width="300" height="100"></canvas>
+                </div>
+                <div class="col-lg-4">
+                  <h3 class="pull-right">Overall Sentiment: <span id="badge-{{crypto.rank}}" class="badge"></span></h3>
+                </div>
               </div>
 
             </div>
@@ -85,11 +90,11 @@
       $(document).ready(function() {
           for (i = 1; i <= 10; i++) {
             var name = $('#name-' + i).text();
-            getData(name, 'bar-chart-' + i, 'loading-' + i);
+            getData(name, 'bar-chart-' + i, 'loading-' + i, 'badge-' + i);
           }
       });
 
-      function getData(name, charId, loadingId){
+      function getData(name, charId, loadingId, labelId){
                 $.ajax({
                   type: "POST",
                   url: "/crypto/",
@@ -99,11 +104,18 @@
                   }),
                 })
                 .done(function( data ) { // check why I use done
-                    console.log("yay");
-                    console.log(data);
 
                     $('#' + loadingId).css("display", "none");
                     $('#' + charId).show();
+                    $('#' + labelId).html(data.overallSentiment);
+
+                    if (data.overallSentiment == 'Negative') {
+                        $('#' + labelId).addClass("badge-danger");
+                    } else if (data.overallSentiment == 'Positive') {
+                        $('#' + labelId).addClass("badge-success");
+                    } else {
+                        $('#' + labelId).addClass("badge-info");
+                    }
 
                     var ctx = document.getElementById(charId).getContext("2d");
                     var config = {
