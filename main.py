@@ -13,12 +13,20 @@
 # limitations under the License.
 
 import webapp2
-
+import os
+import template
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
-        self.response.headers['Content-Type'] = 'text/plain'
-        self.response.write('Hello, World!')
+        template_values = {
+            'greetings': 'Hi',
+            'url': 'test_url',
+            'url_linktext': 'test_linktext',
+        }
+        path = os.path.join(os.path.dirname(__file__), 'index.html')
+
+        #self.response.headers['Content-Type'] = 'text/plain'
+        self.response.write(template.render(path, template_values))
 
 
 app = webapp2.WSGIApplication([
