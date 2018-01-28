@@ -12,6 +12,14 @@
 
     <!-- Custom styles for this template -->
     <link href="/static/one-page-wonder.css" rel="stylesheet">
+
+    <style>
+    canvas {
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+	</style>
 </head>
   <body>
 
@@ -63,6 +71,10 @@
             <div class="p-5">
               <h2 class="display-4">{{crypto.rank}}. {{ crypto.name }}({{ crypto.symbol}}) </h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+
+              <div style="width:75%;">
+		        <canvas id="canvas"></canvas>
+	          </div>
             </div>
           </div>
         </div>
@@ -70,44 +82,6 @@
     </section>
 
     {% endfor %}
-
-
-
-    <!--<section>-->
-      <!--<div class="container">-->
-        <!--<div class="row align-items-center">-->
-          <!--<div class="col-lg-6">-->
-            <!--<div class="p-5">-->
-              <!--&lt;!&ndash;<img class="img-fluid rounded-circle" src="img/02.jpg" alt="">&ndash;&gt;-->
-            <!--</div>-->
-          <!--</div>-->
-          <!--<div class="col-lg-6">-->
-            <!--<div class="p-5">-->
-              <!--<h2 class="display-4">We salute you!</h2>-->
-              <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>-->
-            <!--</div>-->
-          <!--</div>-->
-        <!--</div>-->
-      <!--</div>-->
-    <!--</section>-->
-
-    <!--<section>-->
-      <!--<div class="container">-->
-        <!--<div class="row align-items-center">-->
-          <!--<div class="col-lg-6 order-lg-2">-->
-            <!--<div class="p-5">-->
-              <!--&lt;!&ndash;<img class="img-fluid rounded-circle" src="img/03.jpg" alt="">&ndash;&gt;-->
-            <!--</div>-->
-          <!--</div>-->
-          <!--<div class="col-lg-6 order-lg-1">-->
-            <!--<div class="p-5">-->
-              <!--<h2 class="display-4">Let there be rock!</h2>-->
-              <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>-->
-            <!--</div>-->
-          <!--</div>-->
-        <!--</div>-->
-      <!--</div>-->
-    <!--</section>-->
 
     <!-- Footer -->
     <footer class="py-5 bg-black">
@@ -120,6 +94,121 @@
     <!-- Bootstrap core JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+    <script src="http://www.chartjs.org/samples/latest/utils.js"></script>
+
+
+    <script>
+      var timeFormat = 'MM/DD/YYYY HH:mm';
+
+		function newDate(days) {
+			return moment().add(days, 'd').toDate();
+		}
+
+		function newDateString(days) {
+			return moment().add(days, 'd').format(timeFormat);
+		}
+
+		function newTimestamp(days) {
+			return moment().add(days, 'd').unix();
+		}
+
+      var color = Chart.helpers.color;
+		var config = {
+			type: 'line',
+			data: {
+				labels: [ // Date Objects
+					newDate(0),
+					newDate(1),
+					newDate(2),
+					newDate(3),
+					newDate(4),
+					newDate(5),
+					newDate(6)
+				],
+				datasets: [{
+					label: "My First dataset",
+					backgroundColor: color(window.chartColors.red).alpha(0.5).rgbString(),
+					borderColor: window.chartColors.red,
+					fill: false,
+					data: [
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor()
+					],
+				}, {
+					label: "My Second dataset",
+					backgroundColor: color(window.chartColors.blue).alpha(0.5).rgbString(),
+					borderColor: window.chartColors.blue,
+					fill: false,
+					data: [
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor(),
+						randomScalingFactor()
+					],
+				}, {
+					label: "Dataset with point data",
+					backgroundColor: color(window.chartColors.green).alpha(0.5).rgbString(),
+					borderColor: window.chartColors.green,
+					fill: false,
+					data: [{
+						x: newDateString(0),
+						y: randomScalingFactor()
+					}, {
+						x: newDateString(5),
+						y: randomScalingFactor()
+					}, {
+						x: newDateString(7),
+						y: randomScalingFactor()
+					}, {
+						x: newDateString(15),
+						y: randomScalingFactor()
+					}],
+				}]
+			},
+			options: {
+                title:{
+                    text: "Chart.js Time Scale"
+                },
+				scales: {
+					xAxes: [{
+						type: "time",
+						time: {
+							format: timeFormat,
+							// round: 'day'
+							tooltipFormat: 'll HH:mm'
+						},
+						scaleLabel: {
+							display: true,
+							labelString: 'Date'
+						}
+					}, ],
+					yAxes: [{
+						scaleLabel: {
+							display: true,
+							labelString: 'value'
+						}
+					}]
+				},
+			}
+		};
+
+		window.onload = function() {
+			var ctx = document.getElementById("canvas").getContext("2d");
+			window.myLine = new Chart(ctx, config);
+
+		};
+
+    </script>
 
   </body>
 </html>
