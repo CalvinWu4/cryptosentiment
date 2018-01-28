@@ -66,9 +66,9 @@ class DataHandler(webapp2.RequestHandler):
         reddit_result = get_sentiment_analysis(text_reddit)
         salience_reddit = get_salience(text_reddit, name)
 
-        average_neg = (mainstream_analysis_result['probability']['neg']*salience_mainstream + specialized_analysis_result['probability']['neg'])*salience_specialized + reddit_result['probability']['neg']*salience_reddit / 3.0
-        average_neutral = (mainstream_analysis_result['probability']['neutral']*salience_mainstream + specialized_analysis_result['probability']['neutral']) + reddit_result['probability']['neutral']*salience_reddit / 3.0
-        average_pos = (mainstream_analysis_result['probability']['pos']*salience_mainstream + specialized_analysis_result['probability']['pos']) + reddit_result['probability']['pos']*salience_reddit / 3.0
+        average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg'] + reddit_result['probability']['neg']) / 3.0
+        average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral'] + reddit_result['probability']['neutral']) / 3.0
+        average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos'] + reddit_result['probability']['pos']) / 3.0
         max_value = max(average_neg, average_neutral, average_pos)
 
         overall_sentiment = 'Neutral'
