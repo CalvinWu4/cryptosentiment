@@ -60,11 +60,11 @@ class DataHandler(webapp2.RequestHandler):
         specialized_analysis_result = get_sentiment_analysis(text_specialized)
 
         # get data from reddit posts
-        text_reddit = get_sentiment_analysis(getSubmissionsText())
+        reddit_result = get_sentiment_analysis(getSubmissionsText())
 
-        average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) / 2.0;
-        average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) / 2.0;
-        average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos']) / 2.0;
+        average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) / 3.0 + reddit_result['probability']['neg']
+        average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) / 3.0 + reddit_result['probability']['neutral']
+        average_pos = (mainstream_analysis_result['probability']['pos'] + specialized_analysis_result['probability']['pos']) / 3.0 + reddit_result['probability']['pos']
         max_value = max(average_neg, average_neutral, average_pos)
 
         overall_sentiment = 'Neutral'
@@ -78,7 +78,7 @@ class DataHandler(webapp2.RequestHandler):
         response = {
             'mainstream': mainstream_analysis_result,
             'specialized': specialized_analysis_result,
-            'socialMedia': text_reddit,
+            'socialMedia': reddit_result,
             'overallSentiment': overall_sentiment
         }
 
