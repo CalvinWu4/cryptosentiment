@@ -14,5 +14,5 @@ The text commentary on each type of coin was placed into three text files, one f
 The text files were sent to the google natural language processing api to determine the salience of the text. Salience is 
 a measure of how focused each text was on the coin it was supposed to be discussing. This salience factor was used to weight the different text files from mainstream media, chat forums, and specialized media. The weighted sum was the overall public sentiment towards that cryptocurrency.
 
-This app was built using the Python webapp2 framework on the Google Cloud Platform during RIT's BrickHack4 from January 27 to 28 2018.
+This app was built using the Python webapp2 framework on the Google Cloud Platform during RIT's BrickHack4 from January 27-28 2018.
 This project was a collaboration between Calvin Wu, Diosdavi Lara, and Daniel Ro.
