@@ -1,0 +1,1368 @@
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+A new partnership between Intercontinental Exchange and Blockstream will see new Bitcoin price data fed to Wall Street firms.
+News
+Intercontinental Exchange (ICE) has partnered with Blockchain tech company Blockstream to bring “disciplined” Bitcoin price information to major Wall Street investors, The Wall Street Journal (WSJ) reports.
+ICE, the parent firm of the The New York Stock Exchange (NYSE), says it plans to pull data from 15 major exchanges and deliver it to big financial names, including hedge funds and professional trading firms, in a format designed to let them easily take work with up-to-date metrics.
+The move is yet another example of Bitcoin steadily coming into focus for traditional investment players, in this case keen to leverage its potential as a tradeable asset.
+That ICE settled on the Blockstream deal is in itself a further “sign that the once-fringe market for cryptocurrencies is being taken seriously by Wall Street,” the WSF bullishly suggests.
+The tool would likely see its first release in March, providing traditional investors with something tantamount to a Wall Street-tailored version of already existing crypto market monitoring resources, such as the widely-used CoinMarketCap.
+CoinMarketCap has come in for criticism in recent weeks after developers excluded major South Korean exchanges from the site’s price calculations on Jan. 8, due to what they described as “extreme divergence.”
+The WSJ continues the narrative, suggesting the ICE product will have the benefit of removing industry reliance on resources that have a “homegrown feel.”
+The news marks the second significant announcement for Blockstream this week -- on Jan. 16, the development business launched a Lightning Network-enabled payments store.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+CBOE’s first bitcoin futures contact expired at $10,900 after a turbulent week for crypto markets.
+News
+The Chicago Board Options Exchange (CBOE)’s first Bitcoin futures contract closed Wednesday, Jan. 17, at $10,900 after a relatively turbulent week in the crypto market had briefly brought Bitcoin’s (BTC) price below $10,000.
+By Jan. 9, there were 1,907 short position contracts for Bitcoin futures on CBOE. When the futures closed on Jan. 16, BTC had gone down about 36 percent.
+Reuters reported on the futures contract closing as a “win for bitcoin bears over the bulls.”
+CBOE chief executive Ed Tilly told the Financial Times:
+“[The] market experienced a smooth operational close and the settlement process worked as designed.”
+CBOE launched the BTC futures trading on Dec. 11, attracting so much trading volume to their site that it temporarily went down. The day of the launch, BTC prices remained between around $16,500 and $17,500.
+Looking back to before their launch, a Nov. 2017 CBOE blog post by CFA Russell Rhoads speculating on the unknown potential of Bitcoin futures reads:
+“The question I am constantly hearing is, ‘How will the futures prices relate to spot bitcoin pricing’, and the best (and most honest) answer I can give is, ‘I don’t know’ [...] I’ve heard arguments for the futures trading at both a premium and a discount to the spot price, personally I think the best strategy is to see what the market tells us when bitcoin futures are available for trading.”
+CME Group launched the world’s second Bitcoin futures trading on Dec. 18, with each contract representing five bitcoins, whereas CBOE’s contracts each represent one bitcoin. CME’s first Bitcoin contracts will expire January 26.
+Cointelegraph wrote in early January that the release of Bitcoin futures is an indication that more institutions, like those on Wall Street, are becoming willing to recognize Bitcoin as a legitimate asset.
+#CT_questionsWith #CBOE's first futures contracts having expired Wendesday, CME's are next in line. Their first contracts are to expire Jan 26. How will #Bitcoin's price react?
+ 
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+St. Louis Federal Reserve publishes a paper on crypto and Blockchain, touting the importance of Bitcoin as a future asset class.
+News
+The Federal Reserve Bank of St. Louis has published a paper entitled “A Short Introduction to the World of Cryptocurrencies” with an overall favorable assessment of digital currency and Blockchain applications for the future.
+The paper, written by Aleksander Berentsen and Fabian Schär, begins with a humorous comparison of the Bitcoin (BTC) system to the island of Yap. The small island population had to keep a virtual ledger of who owned what currency, because their units of value were large, almost unmoveable stones that would remain in one place, regardless of ownership, and could be lost at sea.
+The researchers then go into technical detail of the mechanisms of Bitcoin mining, the mathematics behind hashing, and how the transaction consensus works, touting the usefulness of Bitcoin as an asset of the future:
+“It is likely that cryptoassets such as Bitcoin will emerge as their own asset class and thus have the potential to develop into an interesting investment and diversification instrument. Bitcoin itself could over time assume a similar role as gold.”
+The paper then forecasts the areas in which Blockchain technology will have the most effective applications, citing “colored coins”, a kind of meta-transaction linked to a BTC transaction, smart contracts, an application in which Ethereum currently leads, and data integrity.
+The negatives of Blockchain technology applications, according to the researchers, are the potential for forks, the energy waste involved with mining, and the price volatility of a non-centralized currency.
+The paper’s conclusion again highlights the potential for a new digital currency asset class:
+“As an asset, however, Bitcoin and alternative blockchain-based tokens should not be neglected. The innovation makes it possible to represent digital property without the need for a central authority. This can lead to the creation of a new asset class that can mature into a valuable portfolio diversification instrument.”
+In January 2017, Federal Reserve chair Janet Yellen spoke favorably of the possibility of the Fed using blockchain and the potential for easier global financial transactions, but offered no specifics as to how this could be implemented.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+With rumors circulating about bans in Korea, another bout of FUD has been birthed out of JP Morgan.
+Regulations
+In what looks like another well-timed attack out of JP Morgan, another one of their top men have made broad and sweeping statements against cryptocurrencies. Global Market Strategist Mike Bell has said that governments will eventually ban cryptocurrencies.
+The market is in a precarious space at the moment as confusion in Korea keeps people on edge with the uncertainty over a supposed ban.
+This is not the first time a JP Morgan man has timed its vitriol against Bitcoin in the wake of external factors. CEO Jamie Dimon said Bitcoin was a fraud in the wake of the China ban.
+Speaking to Bloomberg, Bell made some broad statements about Bitcoin and its potential to be a tool for nefarious acts, indicating that for this reason, globally, governments could look to blanket ban the entire market.
+“I think that’s the main problem with it. If you’re trying to avoid the government, ultimately it’s under threat from huge regulatory risk because there’s concern around money laundering and everything else.”
+“I think there’s a big risk from government’s banning these currencies eventually.”
+
+The globe has already seen some bans being affected by certain nations, none more so than when China made big news with its hardline approach to ICOs and exchanges.
+This upsetting of the market was aided by JP Morgan CEO Jamie Dimon leading a tirade against Bitcoin.
+At the moment, there is uncertainty in Korea about their stance on Bitcoin, and this new attack by a JP Morgan man seems a little too well timed.
+This position is also that of Bitcoin believer John McAfee who tweeted the following:
+Everyone Relax! The Crypto dip was caused by Mike Bell of JP Morgan claiming Governments could ban cryptocurrencies. Well ... how? This is the same company that called BTC a fraud. It's a bank FFS. They are rightfully terrified of what we are doing. But it can't be stopped.
+Even if Korea was to join the likes of China in trying to ban Bitcoin and others in their borders, it does not mean that they will ever really be able to lay the killing blow.
+A member of the board of Germany’s Bundesbank Joachim Wuermeling has called for this global front in regulating Bitcoin, but that will always be difficult.
+“Effective regulation of virtual currencies would therefore only be achievable through the greatest possible international cooperation because the regulatory power of nation states is obviously limited.”
+While it is easy to draw parallels between this FUD and Jamie Dimon’s, Bell did finish with a fair warning to investors.
+“I just think that investors should be very cautious looking these cryptocurrencies. You need to distinguish the technology underlying them in Blockchain and these cryptocurrencies which, unless they actually have some claim on a business, and are some kind of equities stake, are for all intents and purposes very hard to value.”
+“I think it would be very unwise to put any money that you can’t afford to lose into these currencies.”
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+France is to spearhead its cryptocurrency regulation with a task force headed by Jean-Pierre Landau who thinks Bitcoin is the “tulips of modern times.”
+News
+France’s Minister of the Economy Bruno Le Maire has appointed an open Bitcoin critic to head a task force examining cryptocurrency regulation, local source Les Echos reports Monday, Jan. 15.
+Jean-Pierre Landau, who called Bitcoin “the tulips of modern times” four years ago, will now head France’s efforts to “better control” its regulatory evolution.
+“We want a stable economy,” minister Le Maire told reporters in a session during which he announced Landau’s appointment.
+“We cannot allow speculative risk and the possibility of misappropriation [of funds] linked to Bitcoin.”
+Despite Landau’s past opposition, Les Echos describes him as “Monsieur Bitcoin,” Mister Bitcoin.
+Landau’s tasks will also involve researching how French authorities can stop “tax evasion, money laundering and criminal and terrorist activity financing” using cryptocurrency.
+Le Maire himself has become a vocal proponent of legislative improvements for cryptocurrency at an international level in recent months.
+In December, he announced his desire for Bitcoin to be a topic of debate at the forthcoming G20 Summit in Argentina scheduled for March.
+“There is evidently a risk of speculation. We need to consider and examine this and see how... with all the other G20 members we can regulate Bitcoin,” he told local news network LCI.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+There are even instances where people with no former interest in cryptocurrency feel now is the time to start becoming involved in the Bitcoin boom. But some onlookers wonder, will the bubble burst, and if so, how long from now?
+Analysis
+Even those who’ve never invested in Bitcoin before are starting to keep a closer eye on its progress. That’s because the currency has recently soared in value, causing the people who own Bitcoins to get excited and wonder how much more the worth could climb.
+There are even instances where people with no former interest in cryptocurrency feel now is the time to start becoming involved in the Bitcoin boom. But some onlookers wonder, will the bubble burst, and if so, how long from now?
+Derek Thompson, who covers economics for The Atlantic as a senior editor, notes it’s hard to determine if Bitcoin is a bubble because it’s an entire industry. However, he thinks Bitcoin's recent patterns are akin to other famous bubbles that burst — such as the dotcom bubble.
+Bitcoin is a topic on everyone’s tongues and minds. Investors make huge life decisions based on Bitcoin worth, and they often make impressive predictions about what’ll happen in the future. People also made those actions in association with other things that went bust, leading individuals to caution history will repeat itself. They say the only thing they’re not certain about is when it’ll happen.
+One of the reasons why people are buzzing about Bitcoins is because their value has skyrocketed so much. At the beginning of 2017, a Bitcoin was worth $1,000. Now, its value is $5,000. Then, there was a point in September where the per-coin value was nearly $5,000, but it tumbled to $3,200 only two weeks later.
+For a broader perspective though, it’s necessary to realize that altcoins — any cryptocurrency that’s not Bitcoin — also fluctuate. That reality could theoretically contribute to worries that Bitcoin is a bubble. They might assume that Bitcoin is as volatile as all the other cryptocurrencies, but compiled market statistics actually indicate it’s the most stable.
+Even so, some people who intelligently track the market expect volatility. Dave Birch, founder of Consult Hyperion, a leading consultancy in the field of electronic transactions, has even said, “One does not invest in Bitcoin, one gambles in Bitcoin.”
+He backs up that belief by advising people to only invest as much as they’re prepared to lose. If individuals actually did that, the possibility of a bursting Bitcoin bubble wouldn’t be so frightening. Instead, many people have moved all their investments over to the Bitcoin world.
+A characteristic that attracts many people to Bitcoin is the ability to send and receive money without revealing personal information. They also love the lack of government regulation and feel that by investing in the Bitcoin market, they have more financial freedom.
+However, Ray Dalio, founder of Bridgewater Associates, the world’s largest hedge fund, calls the idea of private Bitcoin transactions questionable. He doesn’t believe the world’s governments will allow the lack of personal identification information associated with Bitcoin to persist forever and brings up how in the US. The IRS has already demanded some user records associated with the Coinbase website.
+Furthermore, Chainalysis is a company that specializes in helping identify the people who own the digital wallets used to store Bitcoins. The discovered information reduces fraud and money laundering.
+Dalio also mentions the high amount of speculation and the lack of spending options for Bitcoin owners. He believes the concept of Bitcoin could work because of that speculation and that people don’t have enough ways to use the Bitcoins they own. For those reasons, he agrees there is a Bitcoin bubble, and that’s the only logical conclusion considering the rapid rise of the Bitcoin’s value.
+Another thing that could make the Bitcoin bubble burst — or at least make investors panic — is the fact that approximately 1,000 people hold about 40 percent of all Bitcoins. The individuals tied to large amounts of the cryptocurrency are often referred to as “whales.” If they choose to suddenly sell a lot of Bitcoins to take advantage of high market prices, other Bitcoin owners notice.
+There are also fears the whales could coordinate actions between themselves and work together to make the market fluctuate. Because the laws surrounding cryptocurrency are not concrete, there are uncertainties about what kind of punishments they might face for doing that.
+Although it’s not hard to find plentiful online resources asserting there’s no doubt Bitcoin is a huge bubble soon to burst, some people provide alternative views. One of them is Ben Davies, co-founder of another cryptocurrency called Glint. He thinks people are not looking at the bigger picture of Bitcoin, and that’s causing them to incorrectly see it as a bubble.
+Davies also thinks the way people often compare Bitcoin to the bubble associated with tulip bulbs doesn’t hold water. He notes that although the prices of tulips soared then experienced a sharp downturn, that historic event is a “poor comparison. He asserts the price increases associated with tulips were not similar to the cryptocurrency phenomenon. However, even Davies admits Bitcoin “has all the hallmarks and antecedents that are the precursor to a bubble.”
+This is just a sampling of why so many people strongly believe Bitcoin is a gigantic bubble that’s a substantial concern. To avoid getting into the kind of trouble that could potentially ruin their lives, investors should continue studying the market regularly and seeing how the Bitcoin value fluctuates.
+Besides, it’s smart to have a plan in place for if or when the bubble bursts. Many of the people who were the most severely affected by previous bubbles that popped were those who didn’t stop to think “What if?” and figure out what to do if the worst happened.
+Failing to do so could mean a person is ignoring history.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+No a calm day for the crypto market, with almost all cryptocurrencies down 20% over the last 24 hours.
+Price Analysis
+The views and opinions expressed here are solely those of authors/contributors and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.
+The past few days have seen a series of flip-flops on news. First was the news of the Korean government banning cryptocurrency trading that led to a sharp fall in prices. Then came the rebuttal that there was going to be no ban in the near future.
+The latest news from South Korea is that they have still not given up on the plan to shutdown cryptocurrency exchanges. The markets reacted with a selloff in all virtual currencies.
+The second news was that Ripple had partnered with MoneyGram for money transfers.
+This shows that the traders should not impulsively buy or sell on any news. It’s always better to wait for a trend to form and then buy into it. Is the current fall a buying opportunity or is there more to go? Let’s find out.
+For the past four days, the bulls have been attempting to hold the critical support of $12,600 to $12,900 in Bitcoin and push prices back into the symmetrical triangle.
+
+However, the bears did not allow the pullback to cross above the 20-day EMA.
+Today, when the cryptocurrency broke below $12,500, it attracted huge selling, which resulted in a sharp decline to $11,000, close to the next support of $10,704.99.
+We believe that the bulls will attempt to pullback from the current levels, but the bounce will not sustain and the BTC/USD pair will crack the $10,704.99 level and fall to $8,000.
+The 20-day EMA and the 50-day SMA have completed a bearish crossover, which is a negative development.
+Our bearish view will be invalidated if price climbs back above $15,000 levels.
+In our previous two analysis, we said that Ethereum will find it difficult to breakout of the overhead resistance zone of $1382 and $1434 and that is what happened. The cryptocurrency returned from a high of $1424.3 on Jan. 13.  
+
+After maintaining above the $1250 levels for three days, the bears broke down below the support, which attracted profit booking. As a result, the cryptocurrency plunged to $966.64, which is just above the 61.8 percent Fibonacci retracement levels of the recent rally.
+We also find a negative divergence on the RSI, which is a bearish development.
+If the support zone between the trendline and $940 holds, we may see an attempt to pullback, which is likely to result in a range bound trading in the next few days.
+Our view of a trading range in the ETH/USD pair will be invalidated if price breaks below the uptrend line.
+After trading inside a range of $2072 to $2950 for the past few days, Bitcoin Cash broke down below support.
+
+The pattern target on the BCH/USD pair following the breakdown is $1,194, however, we expect the bulls to attempt to hold $1733 levels, which was the intraday low on Dec. 22.
+Our bearish view will be invalidated if the bulls succeed in pushing prices back into the range, above $2072.68.
+We had forecast a possibility of a fall to $1.40 in Ripple on Jan.6. Today, the cryptocurrency touched a low of $1.17.
+
+The correction has broken below the 61.8 percent Fibonacci retracement levels, which suggests weakness.
+The cryptocurrency is currently trading inside a descending channel. The downtrend will end when the bulls breakout and sustain above the channel.
+Though the XRP/USD pair has plunged about 65 percent from its highs, we shall buy it only after it confirms a bottom formation.      
+There is a tussle between the bulls and the bears at the critical support of $3.03 in IOTA. While the bears have broken below the supports, the bulls are attempting a pullback.
+
+Along with the range, we also located a bearish descending triangle pattern on the IOTA/USD pair, which will complete if the bears manage to sustain below $3.03. Such a breakdown is likely to result in a decline towards the December 22 low of $1.10.
+On the other hand, if the bulls hold the support, the virtual currency is likely to continue its range bound trading.   
+Today, Litecoin broke down below the symmetrical triangle pattern and also the 50-day SMA, which is a negative development.
+
+The bulls are attempting to hold the critical support of $175.19. If successful, a return to $230 is likely.
+On the other hand, if the bears break below $175.19, a move towards $100 is likely.
+Due to the uncertainty, we are not recommending any trade on the LTC/USD pair.
+We had suggested a long position in NEM in our previous analysis. The pullback on Jan. 13 did not reach our target levels and our stop loss was triggered today, when the bears broke below the uptrend line.
+
+The bulls are attempting to hold the 50-day SMA, which is close to the 61.8 percent Fibonacci retracement of the rally.
+If successful, we may see a pullback towards the trendline, else a fall to $0.59 is possible.
+We don’t find any setup on the XEM/USD pair, hence, we are not recommending any trade on it.
+We are carrying long positions in Cardano from 0.00005733 levels. Though price reached our first target of $0.00006616, it could not reach the second target objective of $0.00007221, because it topped out at 0.00006915. So, what should we do now?
+
+Currently, the ADA/BTC pair is holding the critical trendline support. Hence, for the traders who did not sell in the rally on Jan. 13, we recommend closing the position at the current levels.
+We don’t want to carry a long position when the overall sentiment is heavily bearish because a breakdown of the trendline can extend the fall to 0.00004 levels.
+A breakout of the downtrend line will be the first indication that the fall is over.
+The market data is provided by TradingView.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Countries taking on Bitcoin by themselves will never succeed in terms of regulating the digital currency.
+Analysis
+On a day where confusing news continues to emanate from South Korea and China on new proposed bans and restrictions on Bitcoin, a member of the board of Germany’s Bundesbank has called for a united global regulatory front.
+Joachim Wuermeling of Bundesbank believes there is very little chance of containing this digital global phenomenon with differing national rules across the globe. With international co-operation in regulating Bitcoin comes a chance for regulators to take control, says Wuermeling.
+There has been increased regulatory pressure on Bitcoin and the entire cryptocurrency market recently, which has been felt across the board. The confusion that began in Korea caused a major dip, and even the retraction of those statements helped the market grow.
+Within these regulatory moves, from individual national countries, there are often powerful moves seen across the entire global cryptocurrency market. However, they are never really big enough to bring it under full control.
+These are case-by-case regulations, and these instances are not strong enough on their own for the free running cryptomarket to be constrained by.
+“Effective regulation of virtual currencies would therefore only be achievable through the greatest possible international cooperation because the regulatory power of nation states is obviously limited,” Wuermeling said.
+The issue is that there are two very different views to regulating Bitcoin, and these views can differ from country to country.
+Japan is one of the strongest supporters of the digital currency market, giving Bitcoin currency status last year. However, just across the Sea of Japan, on the mainland, China has been the lead actor in the war against Bitcoin.
+First there was the ICO ban, then the ban on exchanges, and now there is more bad news for those who even deal in exchange-like services.
+It is hard to find an agreeable position on digital currencies for nations with so many torn between different ends of the scale. This is one of the reasons why regulation is so difficult.
+There is also the discussion of the need for regulation as it seemingly flies in the face of what Bitcoin is trying to accomplish with its decentralized nature. Cal Evans, an International Technology Lawyer from London, says:
+“As the cryptocurrency “grows up” it has had to overcome some serious compliance and regulatory problems internationally. These regulatory issues are numerous in nature depending on which country you read this in. Yet one problem seems to slip under the radar time and time again. Money Laundering.”
+Adding to the devious nature, an unregulated currency brings London’s Kingston University economics professor Steve Keen echoes similar sentiments.
+“You can’t be deregulated in a system where there will be criminal attacks. The code itself is clearly not foolproof. People will find their way in, forks will be forced upon them, whether they want them or not. In that situation, regulation may be the only future.”
+It is clear that Bitcoin and other cryptocurrencies will continue to exist in ways that many regulators disapprove of unless there is a united front on wresting the digital currency economy under global control.
+Even banning the stuff in countries in China has only proved to be a speed bump in the road, Bitcoiners, and the likes can always find a way.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+The Dallas Mavericks will start accepting Bitcoin as payment next season, according to a tweet from the NBA team’s owner, billionaire investor Mark Cuban.
+Mark Cuban, billionaire tech investor and owner of the NBA team The Dallas Mavericks tweeted on Tuesday, Jan. 16 that starting next season, it will be possible to buy tickets to the team's games with Bitcoin.
+The Dallas Mavericks won’t be the first basketball team to start accepting Bitcoin as payment for tickets. The Sacramento Kings officially started accepting Bitcoin for promotional products as well as for tickets as far back as 2014.
+Cuban is a prominent figure in the cryptocurrency industry. He is famous for not only investing in a digital currency hedge fund and an ICO but also launching the Ethereum-based cryptocurrency Mercury Protocol in August 2017.
+Cuban’s view on cryptocurrency and Blockchain has changed multiple times over the course of 2017 -- he joined the voices calling the world’s leading virtual currency “a bubble” in June, but by October was claiming cryptocurrencies and Blockchain are the future.
+In addition, Cuban included a tip to invest 10% of your life savings in Bitcoin in his video guide on ‘how to get rich’.
+“If you’re a true adventurer and you really want to throw the Hail Mary, you might take 10 percent and put it in Bitcoin or Ethereum,” Cuban noted in the video.
+While the cryptocurrency market is undergoing a difficult period, the fact that billionaire investors like Cuban, Thiel and Zuckerberg recognize the prospects of Bitcoin is a sign of potential future growth.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Famous legal brothel, the Bunny Ranch, is exploring Bitcoin as payment for its services.
+Adoption
+The Bunny Ranch, which is well known for even those who do not frequent such places thanks to being featured on HBO’s Cathouse show, is mulling over the advantages that could come with offering a Bitcoin payment option.
+Bitcoin made its name on the dark web because of the anonymity, and other reasons, it brought to the user, helping them buy anything from drugs and weapons, as well as sex and porn, discreetly.
+Things could be going full circle now as the upmarket brothel sees an advantage in harnessing that same privacy in payment.
+Owner Dennis Hof, who has seven such legal establishments across Nevada, says he is exploring Bitcoin as a payment option due to demands being made by their high-end clients.
+“We have some of the richest men in the world coming in and out of my brothels. Our high dollar clientele is accustomed to getting anything they want here, so when I started hearing requests from them to look into accepting Bitcoin, I took those suggestions very seriously.”
+Bitcoin has created a new breed of the wealthy elite, but it has also become a plaything of those already well endowed in the bank account. Thus, it is not surprising that clientele of the Bunny Ranch have their fingers in the cryptocurrency pie.
+The adoption of such cryptocurrencies has spread far and wide, but it is more than just a payment system for such clients, it is a secretive one.
+“Friends of mine like Heidi (Fleiss, Hollywood’s most notorious madam) have been trusted with a lot of powerful secrets, and the anonymous nature of Bitcoin is a natural fit for people who have much to lose if their private matters were to ever fall into the wrong hands,” Hof added.
+It would also, according to Hof, cut down on the duffel bags of money that are brought to his door, posing a security risk.
+Bitcoin had a lot of things going for it when it was the tool of the dark web for payments. The anonymity, the global transfers, the speed and cheapness of it all - back then.
+It was used to buy all sorts of things from the shady underbelly of the Internet, but now, as it has stepped into the light, its image has changed. More a tool of the Wall Street investor than the illicit arms dealer, Bitcoin has evolved.
+However, the aspects that made it a success in a secretive world still remain. And, it is because of this, that it looks like it is doing somewhat of a full circle, again being thought of as a tool for paying for sex.
+Of course, this is a new era and a much less seedy situation, but the way in which Bitcoin moves, it is showing its versatility to corner and re-corner, all parts of the market.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Xapo CEO Wences Casares thinks BTC’s Blockchain could become the world’s only robust network for moving value
+News
+During a Facebook Live interview between Xapo CEO and Paypal board member Wences Casares and PayPal CEO Dan Schulman on Jan. 12, Casares explained his vision of a single “robust” Blockchain to move value globally, saying Bitcoin (BTC)’s Blockchain would likely play this role. He also predicted that BTC could become an apolitical standard of value.
+Casares, who grew up in Patagonia, Argentina, explained during the interview that he had seen his family lose everything three times during his childhood due to banking failures and hyperinflation. He, like many tech pundits, compares the creation of Blockchain technology to the creation of the Internet in terms of its innovative potential.
+Earlier this year, Casares had predicted that the price of Bitcoin would eventually reach $1 mln. During the Jan. 12 interview, Casares repeated the same prediction, but in a modified form, calling Bitcoin and crypto in general an “interesting experiment” and predicting BTC’s $1 mln price if that experiment should succeed:
+“I also think that there is a higher than 50% chance that this experiment succeeds...If that happens the world is going to look very very different... I happen to believe that if it succeeds that one bitcoin is going to be worth one million dollars.”
+He also said he thinks there is an “at least a 20 percent chance that this experiment fails”.
+Casares’s optimistic views on the digital currency, however, are bigger than price gains:
+“I can imagine a world in which bitcoin becomes a global standard of value — it’s the first global and non-political standard of value — coupled with the first global and non-political standard of settlement [...] It would be the biggest leap forward in the democratization of money we’ve ever seen.”
+According to Casares, the future of crypto lies in the cooperation around a singular, robust Blockchain, and in his opinion Bitcoin’s is the most likely to be the Blockchain of choice:
+“There is a huge incentive to have one very, very robust blockchain. At least for any process that, in the end, will be moving value of any kind [...] There may be other use cases that do not entail value that may merit a different blockchain, but in terms of value, it’s most likely, in my opinion, that we’re going to have one. And right now, the most likely one seems to be the Bitcoin blockchain.”
+Casares’s focus on Bitcoin underlines the importance of miners being able to successfully rely on transaction fees as incentives to replace block rewards, once the 21 mln Bitcoin mining cap is reached. 80 percent of bitcoins had already been mined on Jan. 13, leaving 4.2 mln coins left until the supply cap.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+A new research paper has shown that a single actor was responsible for the 2013 BTC price spike from $150 to $1000.
+News
+A recent paper on Bitcoin (BTC) price manipulation has shown that just one actor was likely responsible for driving the price of Bitcoin from $150 to $1000 in 2013.
+The paper, co-authored by Neil Gandal, JT Hamrick, Tyler Moore, and Tali Oberman, examines the suspicious trading activity that took place on the now-defunct Mt. Gox cryptocurrency exchange, and claims that it correlated with the sharp increase of the USD-BTC exchange rate in late 2013:
+“The USD-BTC exchange rate rose by an average of four percent on days when suspicious trades took place, compared to a slight decline on days without suspicious activity.”
+The suspicious activity mostly consisted of two bots, Markus and Willy, which used bitcoins that they didn’t own to perform what appeared to be valid trades. These fraudulent transactions were included in the overall trading volume by the Mt. Gox exchange, showing a higher than normal amount of trading activity and thus prompting the public to begin trading legitimately.
+The paper postulates that the use of the Willy bot and its trades were additionally used to cover up an earlier hack at Mt. Gox:
+“A theory, initially espoused in a Reddit post shortly after Mt. Gox’s collapse (Anonymous, 2014b), is that hackers stole a huge number (approximately 650,000) of bitcoins from Mt. Gox in June 2011 and that the exchange owner Mark [Karpeles] took extraordinary steps to cover up the loss for several years.”
+The price manipulation that occured in the early Bitcoin crypto market, and the possibility for it to happen now as well, is due to the relatively thin market for cryptocurrencies that leaves them vulnerable to high price fluctuations.
+Chairperson Jay Clayton of the US Securities and Exchange Commission (SEC) gave a speech in November, warning about the high potential for price manipulation in the market for initial coin offerings (ICO).
+Back in August 2017, Cointelegraph reported about an anonymous actor, known as Spoofy, who has been manipulating the Bitcoin markets by “spoofing” (bidding or offering with the intent to cancel before the execution) large amounts of bitcoins.
+Spoofy, who also engaged in wash trading, or buying and selling to himself, has been successfully manipulating prices mainly on the Bitfinex exchange, which in turn influences the whole market due to how thinly cryptocurrencies are traded.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+A new report indicates Bitcoin transactions for drugs are centralized in just a few mixer and gambling sites.
+News
+A joint report by Center on Sanctions & Illicit Finance and Elliptic, a cryptocurrency forensics firm, has indicated that Bitcoin laundering for illicit drug activity is a highly centralized process. The report’s authors, Yaya Fanusi and Tom Robinson, indicate that much of illicit Bitcoin is laundered through mixers, saying:
+“Mixers have consistently processed about a quarter of incoming illicit Bitcoins per year. The proportion laundered through exchanges and gambling combined has been roughly constant (66 to 72 percent). Of note, Bitcoin exchanges processed 45 percent of laundered Bitcoins, but, as they received much higher volumes, a much lower proportion of their activity is illicit.”
+The report also indicated that the vast bulk of those mixer and gambling laundering schemes occur through just three sites. In fact, the report indicates that “97 percent of the volume in their categories and 50 percent of the volume overall” is processed by these few sites.
+Metropolitan Bank recently ceased wire transfers for cryptocurrencies, due to the increasing risk of money laundering and other illicit activities being conducted through Bitcoin. At the same time, China has sought to close ‘exchange-like’ sites for Bitcoin, believing greater regulation and control are critical.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+80% of the total supply of Bitcoin has now been mined, driving up the difficulty and cost of mining.
+News
+Jan. 13 marked an important milestone for Bitcoin when 16.8 million bitcoins (BTC), or 80 percent of the entire Bitcoin supply, were mined. This means only 4.2 million bitcoins, or 20 percent, are left to mine until Bitcoin’s 21 million supply cap is reached.
+BTC contains the 21 mln cap built into its protocol by Satoshi Nakamoto, first mentioned in their 2008 White Paper, as a way to introduce digital scarcity to cryptocurrency. With such a cap in place, the more bitcoins are mined, the more scarcity is produced on the market.
+Scarcity arguably creates demand, which in turns makes the coins more valuable. Once 21 million bitcoins have been mined, it will become even harder to obtain them, also potentially making each coin more valuable.
+Miners currently receive a 12.5 BTC reward for every block that they mine, but Nakamoto’s protocol also requires that the mining reward is halved every 210,000 blocks, or approximately four years. The next miner halving will take place within two years, approximately in early June 2020 depending on hashrate, bringing the rewards down to 6.25 BTC per mined block.
+Not every digital currency is mineable like BTC. Some cryptocurrencies are created with the entire supply released all at once, in which case the total supply is either held or in circulation and there is no way to “mine” or mint new coins.
+Some examples of non-mineable digital currencies are Ripple, IOTA, NEM, NEO, Qtum, Omisego, Lisk, Stratis, Waves, and EOS.
+Skeptics have proposed that it is theoretically possible to increase Bitcoin’s 21 million capped supply of Bitcoin via a 51 percent or a Sybil attack, but so far neither of these manipulations has proven feasible in the case of BTC.
+Altcoin Krypton, which is based on Ethereum, experienced a 51 percent attack in August 2016, but no other such attacks have taken place since then.
+BTC is still recovering from the Dec. 22 market dip, trading at an average of $14,200 and up about 4.75 percent over 24 hours to press time.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Singapore-based MegaX introduces first-of-its-kind global millennial online mall having raised USD2.5M from a token sale concluded on 16 November 2017.
+Press Release
+Singapore - 11 Jan 2018. Singapore-based MegaX introduces first-of-its-kind global millennial online mall having raised USD2.5M from a token sale concluded on 16 November 2017.
+MegaX, a partnership between iFashion Group and MC Payment, has launched an online mall (Megaxstore.com) targeted at millennials. Having been in the retail industry since 2009, the mall has served over 1 million customers worldwide. The mall will provide visitors with access to over 1,500 global brands and 80,000 products, featuring items such as the Google Pixel 2, the Oculus Rift Touch VR System, iPhone X and even adrenaline-pumping toys like the hydro jet that allows you to hover above the sea. The online mall will also include exclusive concierge service which aims to provide shoppers looking for a getaway with unique holiday experiences. Expect packages such as exotic stays in Irish castles, silver mines, airplane fuselages and even ice hotels.
+The ability to transact using MGX coins and other cryptocurrencies will provide crypto-savvy millennials with the opportunity to experience a new retail phenomenon in the future of cashless society. MegaX envisions and has been working towards a future where ultimately MGX, the native currency, will be the cryptocurrency of choice for millennials to earn, spend and transact. A fresh and emerging retail network, MegaX will pave the way for emerging retailers to engage with millenials.
+Bitcoin Cash (BCH) is an example of an evolved cryptocurrency that is ready for real-world use and is able to cater to retailers’ needs such as having faster transactions and lower fees. “By only accepting MGX and BCH instead of fiat for payments, we are determined to bring about real-world adoption of cryptocurrencies,’ said Jeremy Khoo, Group CEO, iFashion Group. “Despite a market cap of 728 billion USD in cryptocurrencies right now, most retailers do not accept them as a form of payment. Retailers looking to resonate with the new generation of consumers should be fearlessly agile and open to adopting new payment forms. Cryptocurrencies has seen unprecedented growth in 2017 and we believe that growth will continue.”
+Megaxstore.com is piloting a rollout by accepting Bitcoin Cash. MegaX aims to help new-age retailers and cryptocurrencies reach out to a large addressable market, the millennials. A 2016 Accenture report states that within Asia alone, millennials are expected to collectively constitute USD 6 trillion in disposable income by 2020. According to a CBRE survey, 30% of this income is spent on leisure activities such as shopping and eating out.
+MGX as a cryptocurrency revolves around the millennial movement and aims to create a retail revolution by better engaging with these segment of customers and being their currency of choice. The retail companies behind MegaX have served more than 10 million customers and will use an omni-channel approach in spurring real world adoption of MGX. Token holders can also expect to pay with MGX at multiple native offline events such as the next installation of Artbox Singapore – a creative market concept popularised in Thailand, which attracted over 600,000 attendees and totaled 30 million USD in transaction volume during its inaugural Singapore outing over 2 weekends in April 2017.
+Visit this site for more information or the following contact points Instagram.
+Facebook
+Twitter
+Telegram
+Medium
+About iFashion Group
+iFashion is a leading venture conglomerate company focused on investing and acquiring fashion and lifestyle e-commerce ventures based in Southeast Asia. To create synergy among businesses, the Group aggregates highly complementary businesses via mergers and acquisitions in its sectors of interest. The Group acquired, most notably, local O2O brands Dressabelle and Megafash, in the lead up to an IPO.
+About MC Payment
+Founded in Singapore in 2005, MC Payment is a leading innovative fintech company that has a strong regional presence with end-to-end value-chain of commerce transactions, ranging from suppliers and merchants to consumer payments. Its technology entails both retail to online payments, mobile to Distributed Ledger Technology. MC Payment has become the bridge that facilitates commerce transactions across the region, with payment acceptance ranging from credit and debit, to locally preferred alternative payments, while serving regional merchants and financial institutions alike.
+About Megaxstore
+Megaxstore is a multi-label online mall dedicated to inspire and motivate customers with creative goods found around the world. Megaxstore now operates over 7 stores across Asia, offering experiential retail spaces and a well-curated mix of tech products, hotel stays, homeware, food items, stationery, novelty goods, travel essentials, apparel for men, women and children; as well as accessories.
+Company name: MegaFash
+Company site: http://megax.io
+Company contacts: Ngeow Jiawen 
+Email: jiawen@megafash.com
+ Follow us on Facebook 
+Follow us on Facebook
+  This is a paid press release. Cointelegraph does not endorse and is not responsible for or liable for any content, accuracy, quality, advertising, products or other materials on this page. Readers should do their own research before taking any actions related to the company. Cointelegraph is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.  
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Conflicting news out of Korea has played its part in keeping Bitcoin down, yet it has steadied.
+Analysis
+After four days of straight losses from Monday to Thursday, Bitcoin seems to have leveled off somewhat. However, 2018 has not started well as this marks the second week in a row of poor performances.
+While Bitcoiners have become accustomed to spikes and rallies, this flattening out of the price graph should still be seen as a positive. It comes over news of the South Korean justice minister’s backtracking of a proposal to ban local cryptocurrency exchanges in the country.
+Regulators have long been behind the eightball when has come to controlling digital currencies as they work on a case-by-case basis. Time has now moved along swiftly as governments and officials have had their chance to put plans together which have affected the market.
+The past four days have seen Bitcoin down as much as 23 percent at a point in his second week of 2018, but far from being a dip, it has been a steady decline - far more nerve-wracking.
+Cryptocurrencies across the board have had some tough times in general, as Bitcoin price is inexplicably linked to most of the top altcoins.
+Talks of a bear market brewing due to patterns derived in the graphs have many searching for answers as to why the cryptocurrency has taken such a plunge since the highs of mid-December last year.
+One factor that has historically laid big blows on Bitcoin has been regulatory stirrings. The announcement by China that it would be banning ICOs and then following that exchanges, sent the market spiraling.
+This week, there were similar fears realized - albeit falsely - when the South Korean Ministry of Justice announced independently that they would be banning trading in cryptocurrency. This was done without the consent of the Ministry of Strategy and Justice and other government agencies involved in the South Korean cryptocurrency regulation task force.
+The market however reacted to the news which has since been clarified by the Blue House, the executive office and official residence of the South Korean President.
+According to a spokesperson from the South Korean cryptocurrency task force, there are no plans to ban cryptocurrencies.
+“The South Korean government has no other choice but to follow the regulatory frameworks and trends established by other leading governments. While there certainly exists a negative reputation attached to the cryptocurrencies, the government’s stance is to allow what has to be allowed, for the benefit of the South Korean market.”
+After banning ICOs, and then exchanges, Chinese regulators are now looking to go after miners in the Socialist Republic, a country that holds the majority of Bitcoin mining power.
+The reason for China being a powerhouse of mining has to do with the cheap and often subsidized power, which miners tap into. The plans are now to make this essential power more expensive, cutting into the profit margins.
+In the US, the SEC, which has had a bit of a history in the cryptocurrency space already, is starting to make a lot more noise in its attempt to regulate.
+Fears of money laundering and the use of cryptocurrencies for other fraudulent uses, has seen Commodity Futures Trading Commission Chairman J. Christopher Giancarlo take up the mantle of federal overseer of digital currencies.
+Regulators, even in China, have never been able to kill off Bitcoin. However, it is clear that they have a lot of clout when it comes to affecting the market price.
+This latest bout of regulatory muscle-flexing shows that there is a need for some parity between the regulators and the digital currency economy before things can continue on their merry way.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+A collection of some impressive success stories of the year, as well as the profiles of people who probably wish they’d never touched Bitcoin at all.
+New Year Special
+The year of 2017 was a fantastic year for some Bitcoin users, but others were not so lucky with the cryptocurrency.
+Below, we’ll look at some of the most impressive success stories of the year, as well as the profiles of people who probably wish they’d never touched Bitcoin at all.
+It’s a highly erratic currency, but people who invested in it before its recent prominence often found their foresight was lucrative in ways they never imagined at first.
+One anonymous person who posted a detailed story on Steemit said that in 2010, the price of each Bitcoin was so low that it was not even valuable enough to buy a pizza. Still, by the end of that year, the person reportedly had 12,000 Bitcoins and collecting the large number of them paid off.
+That’s because by April 2013, the worth of each Bitcoin had ballooned to over $100. Due to some issues in the individual’s personal life and a few other non-Bitcoin-related factors, the person took a couple of breaks from Bitcoin but was never completely out of the loop with them. Eventually, this anonymous Bitcoin user heard that the 12,000 Bitcoins were now worth over $10 mln.
+Despite that fortunate turn of events, the person only began selling them in small quantities so as to not attract attention. The individual also planned for the future by choosing investment strategies and did not let the rapid wealth impact their employment. As words of advice, the person suggests exercising patience and not getting greedy, while also keeping up on newsworthy events.
+Erik Fineman began investing in Bitcoins in 2011 when he was only 11 after his grandmother gave him $1,000 and his brother offered him a tip about what to do with the money. In those early days, Bitcoins were only worth $12 each. However, when Fineman sold his first Bitcoins at the end of 2013, each one had a value of $1,200.
+By then, Fineman had turned the $1,000 from his grandma into $100,000 and used it to start an online education company in 2014. He hadn’t had a pleasant experience in high school and thought that his new business venture could connect frustrated students and willing teachers over video chat. Fineman also moved to Silicon Valley, traveled the world and made a bet with his parents that if he were a millionaire by age 18, he’d not have to go to college.
+In January 2015, Fineman sold his education company and was given the choice of accepting  $100,000 or 300 Bitcoins. He took the Bitcoins. Fineman also achieved his goal of becoming an 18-year-old millionaire and won’t be going to college. He says he’s happy learning from real-world experiences. However, Fineman stays busy with numerous projects, including involvement with NASA. Those activities — and savvy business sense — feasibly helped him get where he is today.
+Jeremy Gardner is another person who boldly began investing in Bitcoin during the early days — notice a pattern here? — and received a substantial payoff. In 2013, one of Gardner’s friends got him some Bitcoins in exchange for cash and Gardener began feeling fascinated about how he could work with the currency with nothing more than an Internet connection. He also loved how there was no centralized regulatory body for Bitcoin.  
+As Gardener became immersed in the Bitcoin world, he became a strong and emphatic voice in the cryptocurrency world, often using social media as a platform. He also wisely invested money into starting and supporting companies associated with Bitcoins and Blockchain technology.
+Gardner stops short of disclosing how much money he’s made by investing in Bitcoin technologies, but is referred to as a “self-made millionaire.” Plus, he keeps a realistic perspective and understands that whenever the value of Bitcoins goes up rapidly, it’ll likely also go in the other direction soon. However, Gardener has a broad network of investments. Those interests are arguably helping protect his worth and allow him to get financial benefits from numerous sources.
+Traveling the world is something many people dream of doing, but Mr. Smith has turned that aspiration into reality, all due to Bitcoin investments starting in 2010. A man with a college education and former Silicon Valley employee, Mr. Smith, heard about Bitcoins in July of 2010 and began investing in them a few months later.
+Knowing he was in it for the long haul, Smith put his Bitcoin investments on the backburner until 2013, a time when the cryptocurrency’s value started rising rapidly. Eventually, the price per coin went up to more than 2,000 times what Smith originally paid for it. He now claims to have made $25 million from an initial $3,000 investment and uses the money to go on lavish, round-the-world travels that involve only staying in five-star hotels and flying first-class.
+Smith still owns 1,000 Bitcoins, but only wants to sell those once the per-coin value reaches $150,000. He has no regrets about selling the rest and says he has everything he ever wanted, thanks to Bitcoins.
+Tim Enneking is a prime example of how to succeed in Bitcoin investing. He’s a hedge fund manager who achieved the all-time annual records for both funds and funds of funds.
+Enneking was skeptical of digital currencies, although he started running the world’s first digital currency fund. During his work, Enneking decided to rigorously research Bitcoins. After realizing he didn’t find any red flags, he concluded perhaps there was more to the cryptocurrency than he’d originally thought and started looking for ways to become more heavily involved in funds management.
+Enneking now has experience overseeing funds within the US and abroad. He advocates being cautious while investing and taking time to understand market trends. Furthermore, Enneking reminds potential investors that due to the rapid fluctuations of digital currencies, it may take time to see investments become fruitful.
+You might not have heard of 26-year-old Olaf-Carlson Wee before, but he’s another person who recognized the potential of Bitcoins before many other people and got rich as a result. In February 2013, at a time when a single Bitcoin’s worth was between $20-30, Carson Wee began working for a Bitcoin startup called Coinbase.
+At that time, Bitcoins were not part of the cultural consciousness yet, and the mere mention of them caused raised eyebrows if people were aware of them at all. However, Carlson Wee viewed Bitcoins as a promising currency. He made an arrangement with his employer to only get paid with them instead of physical money and started making transactions with Bitcoins whenever possible. Those decisions were ultimately profitable because they made Carlson Wee a millionaire.
+The success stories you just read might be enough to make you want to start investing in Bitcoins immediately. But, if there’s a consistent thread in all those outstanding stories, it’s that the Bitcoin value changes without warning. However, some people have unfortunate circumstances related to Bitcoins that aren't always about their falling value. You’ll see some examples below.  
+James Howells, a 32-year-old man from Wales, started working with Bitcoins from a computer in 2009. A year later, he disassembled the device and stored the parts in a drawer, then eventually threw them away.
+Because several years’ worth of trash now lie on top of the valuable but discarded hard drive, retrieving it is an expensive process, and the condition of the hard drive is unknown. However, the reason why the ramifications of this failure became especially evident this year is that estimates suggest the hard drive and the Bitcoins it contains are worth more than $100 mln at today’s prices.  
+Howells keeps an upbeat attitude about his lost fortune and knows there’s no point in getting too upset about it. If he ever does recover it, however, he’ll buy a Lamborghini.
+Despite how things turned out for Howells, he hasn’t given up on cryptocurrencies. He’s still active with them today and puts his energies into one called Bitcoin Cash.
+Most people have gone through the frustration of forgetting passwords and PINs, but they probably don’t have to deal with the aftermath of losing the equivalent of $30,000 because of the blunder. However, Mark Frauenfelder invested $3,000 in Bitcoins last year and had numerous profitable ventures afterward. He talked to Bitcoin experts who told him that using a hardware wallet was the best way to protect his Bitcoin cache, so Frauenfelder bought one in November 2016 for $100.
+While setting up the hardware wallet, he had to set up a PIN, along with a 24-word list used to recover access if needed. Frauenfelder wrote down the words on a piece of paper. Unfortunately, a cleaning company employee threw the document away. Frauenfelder didn’t think that was a big deal at first until he discovered he’d forgotten his PIN.
+Desperate to regain access, he went online and posted on forums, plus contacted customer service representatives associated with the hardware wallet manufacturer. Frauenfelder even visited a hypnotist this spring, but the session did not bring about successful results.
+At long last, he got help from someone who helped him hack into the hardware wallet and get the PIN and 24-word list. But, not without substantial heartache, stress and paying money for retrieval methods.
+The anonymous nature of Bitcoin may compel people to use the currency for illegal things. However, as a 58-year-old Italian woman who lives in Denmark learned, doing that can cause trouble. She hired a hitman to carry out a failed murder plot related to her boyfriend and used Bitcoin to pay for it.
+A court ruling resulted in a six-year jail term. It also caused her to lose residence privileges in Denmark, where she’s lived for 30 years.
+Cody Brown, a startup executive, saw first hand how bad things could get during a Bitcoin theft. He lost $8,000 worth of Bitcoins in 15 minutes after a hacker got into his Verizon account, which was connected with Coinbase. Brown believed he got targeted because of a tweet he’d RT’d from a friend who’d also been hacked earlier. Brown is not hopeful of ever getting the stolen cryptocurrency back.
+However, he’s also not giving up on Bitcoins. Brown believes that the companies involved in it will eventually figure out how to lock their systems down tighter and potentially add more fraud protection resources for customers.
+Simon first used the TOR network in 2011. He stumbled upon one of those shady online marketplaces that offered all kinds of illegal things, — guns, drugs, counterfeit documents, you name it.
+As a teenager, Simon decided that getting a brand new passport for a certain European country would be a neat thing to do. The price tag was 10,000 BTC. If he threw in an extra 6,000 BTC, the seller promised to get Simon a press ID from an esteemed newspaper, too. He couldn’t resist.
+Simon transferred his funds to a crypto-exchange platform but, when it came time for the merchant to deliver, the merchant disappeared. ‘Maybe he got arrested?’ Simon wondered to himself.  He was confused, but he still had his money safely tucked away in the exchange account since the seller had vanished. All was okay as far as he was concerned.
+Two years later, newspapers began reporting the arrest of a Russian man accused of money laundering. The name of the laundering service he had controlled was Liberty Finance, which Simon instantly recognized as the crypto-exchange platform he had used to keep his 20,000 BTC.
+In light of the scandal, the FBI seized control of the exchange platform and all money associated with it. Simon kissed that money goodbye long ago, but it doesn’t make it easier for him to see how Bitcoin has appreciated over time.
+If Liberty Finance hadn’t been a money laundering scam, Simon would have acquired some $400 mln dollars.
+Despite the lack of regulation in the Bitcoin world, entities that are breaking the law still get caught. Case in point? BTC-e, a long-running Bitcoin exchange.
+It received a $110 mln fine from the Federal Trade Commission for alleged money laundering. Also, Alexander Vinnik, a Russian man associated with the exchange got arrested and faces over five decades in prison if convicted.
+Another recent incidence of alleged questionable behavior from Russia comes from Anatoly Kaplan, the owner of ForkLog, a Russian cryptocurrency news outlet. According to reports, the Ukrainian Secret Service is investigating Kaplan in connection with alleged associations with Americans involved in unlawful activities.
+The Ukrainian authorities searched Kaplan’s apartment and confiscated his laptop. Also, this is not the first time ForkLog has come to the attention of law enforcement officials. Kaplan maintains his innocence and asserts his site does not have technology capable of the things the Ukrainian police accuse him of doing.
+Kaplan also says during the search and seizure related to the investigation, one of the Ukrainians tried to transfer some of Kaplan’s Bitcoins. Kaplan and his attorney plan to take legal action and are confident about a positive outcome, but even so, this event has already caused stress and unfavorable publicity for Kaplan and his ForkLog site.
+These tales of wonder and woe prove that Bitcoin investments are not for the faint of heart.
+The people who engage in them must be ready for ruin, but they might become amazingly prosperous instead.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Bank Indonesia warns its citizens against all use of Bitcoin, citing security concerns and restating the illegitimacy of any digital currency within the country.
+News
+Bank Indonesia issued a press release on Jan. 13, warning its citizens against the use of selling, buying or trading cryptocurrency and reiterating that virtual currency is not legitimate within Indonesia.
+This statement comes after the September reassertion that Bank Indonesia will not accept Bitcoin (BTC) as payment, leading to the voluntary closure of two Indonesian-based crypto exchanges, BitBayar and TokoBitcoin. Bank Indonesia cites concerns over potential use in money laundering and funding terrorism as reasons behind their anti-cryptocurrency campaign:
+“Virtual currencies are vulnerable to bubble risks and susceptible to be used for money laundering and terrorism financing, therefore can potentially impact financial system stability and cause financial harm to society.”
+While there is no official ban on Bitcoin within the country, per Wikipedia, the press release forbidding all activity relating to cryptocurrency takes a harsher tone than previous statements that merely advised citizens to be careful around Bitcoin.
+Algeria’s government has also taken steps towards a crypto ban, with reports that the 2018 Finance Bill will make Bitcoin ownership and trading illegal within the country. In early January, Egypt’s top Religious Official, Grand Mufti Shawki Allam, declared Bitcoin unlawful according to Sharia law citing concerns about money laundering and terrorism funding as well.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Just like adding .com in the 90s or more recently a cannabis theme, companies are profiting from the name ‘Blockchain’.
+Analysis
+Bitcoin and Blockchain is all the rage in more than just individual investors’ circles, and companies are trying to cash in on the craze. While some are launching their own ICOs, such as Kodak, others have merely tacked ‘Blockchain’ onto their name and seen success.
+In a move that seems dangerously similar to what happened in the 90s with the dot-com boom, the ‘Blockchain revolution’  taken on by some companies requires careful scrutiny as much of it is smoke and mirrors.
+Speaking of smoke, the cannabis revolution that followed its legalization in a few states also came with a similar warning from the SEC about business cashing in on that hype.
+Among the host of companies trying to wrangle their way into the hyped market is the company formerly known as Tulip BioMed - now Bitcoin Services. This change in name and direction saw the company's stock increase by a massive 43,500 percent last year.
+To their credit, the name change came back in 2016 and only took off last year in November with the hype that came with the cryptocurrency market in the mainstream.
+Bitcoin Services financial filings from around that time offer few clues that the company was doing anything specific to justify the hysteria. The same can be said of its website, which generally lacks press releases and other investor information, apart from contact information.
+Bitcoin Services probably takes the top spot in terms of growth thanks to its name change, but there is a host of others that have made anywhere between 309 and 20,445 percent gains thanks to the change, as shown below.
+Another worrying trend that is reminiscent of the dot-com boom is that these gains do not last long as people quickly catch on or regulators step in.
+Hong Kong-based UBI Blockchain Internet—previously known as JA Energy—soared more than 20,000 percent before regulators halted buying and selling.
+Those who believe the entire cryptocurrency market is one big bubble often point to the similarities in hype between the dot-com bubble and these happen around companies taking advantage of the mania and speculation.
+It remains to be seen if the cryptocurrency market can weather this mania better than other similar bubbles.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+US Treasury Secretary intends to keep Bitcoin from becoming the modern equivalent to an anonymous Swiss bank account.
+News
+The US Secretary of the Treasury, Steven Mnuchin, made a number of statements regarding the international use of digital currencies at a meeting of the Economic Club of Washington on Friday.
+The Secretary expressed his concern that Bitcoin wallets could potentially become the modern equivalent of the anonymous Swiss bank account. He intends to work with the G20 nations to offer US tracking abilities in order to prevent such misuse from occurring. He said:
+“If you have a wallet to own Bitcoins, that company has the same obligation as a bank to know [you]. We can track those activities. The rest of the world doesn’t have that, so one of the things we will be working very closely with the G-20 is making sure that this doesn’t become the Swiss bank account.”
+Mnuchin doesn’t seem to understand that not all wallets are hosted by “companies.”
+Cryptocurrency industry experts, however, aren’t so thrilled about the idea of more regulations. For example, Sergei Sevriugin, CEO and Founder of risk-sharing platform REGA, told Cointelegraph:
+“I think the regulation already exists for cryptocurrency but, regulation by the community not central authorities, which is the best type of regulation that can ever exist. Centralized regulation will kill the idea of crypto currencies; and, without any control from the community, this type of regulation will lead to several problems, including corruption. We can all remember the last crisis, including the mortgage system collapse in 2008, was under full control and regulation. To put cryptocurrency under full control, the authorities must first put the Internet under control.”
+Mnuchin also addressed the potential that countries may use digital currencies to skirt existing financial sanctions. He expressed a belief that there’s little risk of such activities, saying that he is ‘not at all’ worried that countries such as Russia and Venezuela would be able to function in that way.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Are there signs of waning momentum?
+Price Analysis
+The South Korean government has confirmed that it has no plans to ban cryptocurrency trading in the short-term. This is a major relief to the markets, which were reeling under selling pressure.
+Warren Buffet’s warning that the cryptocurrencies will have a “bad ending” also did not have any noticeable effect on the prices.
+During the recent decline, instead of being perturbed, many traders saw this as a buying opportunity and rushed to open new accounts. The cryptocurrency exchange Binance saw a whopping addition of 240,000 users in just an hour on Jan. 10.
+However, unlike the previous occasions, the pullback from the lows has been muted. Is this a sign of waning momentum? Let’s find out.
+Bitcoin broke below the 50-day SMA on Jan. 11 and since then, it has been struggling to climb above it. It has managed to hold on to the critical support level between the trendline of the symmetrical triangle and the neckline of the head and shoulders pattern.
+
+If Bitcoin fails to rally within the next two days, chances are that it will turn down and break below $12,500, sinking it to $8,000 levels.
+On the other hand, if the cryptocurrency clings on to the support and moves above the 20-day EMA, it will indicate a short-term bottom.
+Very aggressive traders can buy on a breakout above $14,500 and keep a stop loss of $12,500. The target objective of this trade is $16,500. This is a very risky trade, hence, should be attempted with only 25 percent of the usual position size.
+Risk-averse traders should wait for a reliable setup to form as there is no clear trend on the BTC/USD pair as long as it trades inside the triangle. It’s better to wait for a breakout or breakdown from the triangle before initiating any positions.
+Ethereum has been comparatively strong during the South Korean ban episode. This shows that its owners are not in a hurry to sell their holdings.   
+
+The buyers jumped in at the 38.2 percent Fibonacci retracement levels of the latest rally from $640.43 to $1,382. The uptrend remains intact and the bulls are likely to make another attempt to break out of the recent highs at $1,382.
+If the price breaks out of the overhead resistance zone of $1,382 to $1,434, it will signal the start of the next leg of the up move, which can carry the ETH/USD pair towards its target objective of $1,814.67.
+On the downside, support exists at the 20-day EMA and at $965.18, which is the intraday low on Jan. 8.
+However, as we expect a strong resistance between $1,382 and $1,434, we are not recommending any fresh long positions in it.
+Bitcoin Cash broke out of the range on Jan. 10, however, contrary to our expectation, it could not rally to $3,249. It faced strong resistance at $2,950 and turned down from there.
+
+It continues to be range bound but in a larger range. On the upside, $2,950 is the critical resistance and on the downside, $2,291 continues to be a strong support. If this support breaks, it has another support at the $2,072 level.
+Traders should wait for a breakout above $2950 to initiate long positions. The breakout is likely to carry the BCH/USD pair towards the highs.
+On the other hand, a breakdown below $2,072 can result in a decline to $1,733 and thereafter to $1,200.    
+For the past three days, Ripple has been attempting to hold the uptrend line. The bulls continue to buy the dips close to the $1.5 levels.
+
+The cryptocurrency is currently correcting inside a descending channel. If the bulls succeed in breaking out of the resistance line of the channel, a move to $2.85 is likely.
+Strong support exists between $1.76978 and $1.40463, which are 50 percent and 61.8 percent Fibonacci retracement levels of the recent rally from $0.22255 to $3.317.
+But we don’t find any reliable buy setups on the XRP/USD pair. Hence, we are not recommending any trade on it.     
+IOTA has continued its range-bound trading between $3.032 and $4.34. Yesterday, Jan. 11, the bulls again defended the lower end of the range.
+
+We expect the range to hold.  Hence, traders can buy on weakness towards $3.1 and keep a stop loss of $2.7.
+The IOTA/USD pair should attempt to move towards $4.34 once it breaks out of the downtrend line. A move above $4.34 is likely to propel it towards the upper end of the range at $5.59.
+Our bullish view will be invalidated if price breaks down and sustains below $3.032.    
+Litecoin is still stuck inside the symmetrical triangle. Yesterday, Jan.11,  the bears failed to break down of the triangle.
+
+The bulls will now try to push prices towards the resistance line of the triangle at $280. The move will gain momentum above $254. The support is way lower at $215.
+At the moment the risk to reward ratio is not attractive for trades.
+The LTC/USD pair will become bearish if price breaks down and sustains below the 50-day SMA.
+As forecast in our previous analysis, the decline to the trendline support prompted buying. NEM is currently in a pullback. Should we trade this?
+
+The traders bought the dip below the trendline support yesterday, Jan. 11. We now expect the XEM/USD pair to rally to $1.56949 and $1.68590, which are 50 percent and 61.8 percent Fibonacci retracement levels of the recent fall from $2.06278 to $1.07619.
+The aggressive traders can buy at the current levels of $1.38 and keep a stop loss at $1.06, below yesterday’s lows. Though the initial risk to reward ratio is not attractive, we believe that buying near the strong support of the trendline is a good strategy.
+Buyers bought the dip below the trendline on Jan. 11. We had forecast a pullback from the trendline in our previous analysis but advised waiting for a confirmation of a bottom before buying. So, can the traders buy now?
+
+If the pullback sustains above the 0.000057 levels, we expect the move to extend to $0.00006616 and $0.00007221, which are 50 percent and 61.8 percent Fibonacci retracement levels of the recent fall.
+Traders can buy the ADA/BTC pair at the current levels and keep a stop loss at 0.00004. Here too, we are recommending a trade without an attractive risk to reward ratio because we are buying close to the strong support of the trendline from where the price can surprise on the upside.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+KFC Canada has introduced a “Bitcoin Bucket” to their menu, available for purchase for BTC only
+News
+In the latest example of mainstream crypto adoption as a PR stunt, KFC Canada has introduced a new menu item, the Bitcoin Bucket, that customers can buy exclusively with Bitcoin (BTC).
+KFC Canada announced their new PR stunt promotion via Twitter on Jan. 11:
+“Sure, we don’t know exactly what Bitcoins are, or how they work, but that shouldn’t come between you and some finger lickin’ good chicken.”
+The Bitcoin Bucket, which sells for the Bitcoin equivalent of 20 Canadian dollars, contains ten chicken tenders, waffle fries, a medium side, a medium gravy, and two dips. Canadian citizens can order home delivery of the Bitcoin Bucket through Colonel & Co.’s website while the offer lasts.
+KFC Canada also released a promotional Facebook live video for the Bitcoin Bucket, featuring a still graphic of a bucket of KFC chicken superimposed with the equivalent of 20 Canadian dollars in BTC updating every 5 minutes in real time for almost 4 hours. One Bitcoin Bucket costs about 0.001 bitcoin at press time.
+In a similar PR stunt, on Jan. 9, Kodak announced the Initial Coin Offering (ICO) for their own cryptocurrency, KodakOne. KodakOne reportedly will be used to register and license images on the new KodakOne Platform.
+Bitcoin had also already entered the fast food industry in July 2017, when the German food delivery company, Lieferando, began accepting Bitcoin for orders. More recently, in August 2017, Burger King Russia introduced its own virtual currency, the Whoppercoin, which is posited for use as part of a customer loyalty program.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+While it may be a hugely investable asset, Bitcoin is venturing further away from being a functional currency
+Analysis
+About six months ago the news was littered with companies that were looking to integrate Bitcoin as a payment system. However, in the fast-paced cryptocurrency ecosystem, things have changed dramatically.
+Now, there is a host of companies either turning away from Bitcoin or doing a full U-turn. Microsoft recently announced that after almost three years it would stop accepting Bitcoin. However, it did reserve that position after taking its own steps to: “ensure lower Bitcoin amounts would be redeemable by customers.”
+Steam, the gaming platform, also canceled its use of Bitcoin as a payment system in early December last year. Their reasons resonated with the general consensus, citing high fees and incredible volatility as the main issues.
+It is not only those outside of the crypto market though; The North American Bitcoin Conference set to be held in Miami next week, is no longer taking Bitcoin for last-minute tickets.
+It has been a bone of contention with Bitcoin since its fees started averaging about $2, now with transactions costing upwards of $20, people have started looking at Bitcoin as something other than a digital currency.
+The North American Bitcoin Conference said on its website that network congestion and manual processing influenced the decision to stop accepting payments in cryptocurrencies.
+"We have, and always will, accept cryptocurrencies for our conferences, up to fourteen days before the event," the organizers wrote. "However, due to the manual inputting of data in our ticketing platforms when paid in cryptocurrencies, we decided to shut down Bitcoin payments for last minute sales due to print deadlines."
+It would seem that it is possible to link Bitcoin’s change in categorization back to when SegWit2x failed to launch and thus sent Bitcoin on a monster rally that saw it end the year 13 times stronger than when it started.
+Bitcoin was having problems defining itself as a digital currency, or as digital gold, and due to the nature of the cryptocurrency, it was defined democratically as SegWit2x was not taken up - for a number of reasons.
+It was thought that SegWit2x would help lower costs and speed up the network; however, Bitcoin’s value as a store of value would probably take a hit.
+And, with interest in Bitcoin being driven by the mainstream acceptance of the digital currency to be an asset that grew exponentially, it seemed that the community was keen to see it move towards being so-called digital gold.
+The very fluid nature of Bitcoin’s evolution means that it could still become a very useful and viable currency if the community decides. The latest change that could be on the cards is the Lightning Network which would help hugely with Bitcoin scaling issue.
+The Lightning Network would implement a smart contract script into the Bitcoin network that would open private payment channels between a peer and all of the other peers they transact with. In addition to all the private payment channels they are a part of, each of peer would have one channel open to the Bitcoin Blockchain.
+#CT_questions Do you think #Bitcoin Lightning Network will be implemented on a large scale this year, and will it help with the congestion problems?
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+A substantial part of Bitcoin’s value may come from its social cachet, similar to luxury goods.
+Analysis
+It makes perfect sense to want to own something that is has increased in value 13-fold in the last year, but is part of Bitcoin’s value due to the social status it brings?
+A study conducted by Bernstein Research has recently suggested just that. The analysts agree that limited supply plays a big role in the price surge, but the social standing that comes with owning Bitcoin may also be causing investors to join the hype:
+“Bitcoins do not provide investors with cash-flows or other benefits, but the maximum supply of Bitcoins is fixed and so the price is driven by speculation on the potential demand for Bitcoin.”
+Just like high-end liquor, fancy cars and fashion brands, Bitcoin is acting like a Veblen good. The higher prices for certain goods can be attributed to the reinforcement of the social status attached to the product, something Bernstein calls “snob value.” The analysis added:
+“In mid-2017, we conducted a consumer survey of 1,070 Chinese Premium Goods Consumers which showed that Veblen Demand is the third most important motivator of brand choice in brands.”
+
+Bitcoin is perceived as difficult to understand for those who aren’t “in the know.” Thus, owning Bitcoin immediately gives one that “snob value,” implying greater intelligence or insight.
+In a strange, yet practical comparison, Bernstein compares Bitcoin to E.Jiao - traditional Chinese medicine derived from donkey skin. In 2016, China produced 5,000 tons of E.Jiao, which required 2.5 mln donkey skins. This has lead to a scarcity of donkey skins and cheap imitations coming to the market.
+The original product’s leading manufacturer - Dong E-E.Jiao - has been able to raise the price of its product 18 times over the last decade because of the Veblen good-quality that has become attached to it with its scarcity.
+While not necessarily a good, in the early 90s, with the dot-com boom, there was a certain social standing that came with being involved in a technology company. People were caught up in the hype partially because they wanted to be part of the early elite that were making waves in technology.
+It has already been seen that companies that simply add Blockchain to their name get huge waves of unjustified interest, and again, this could be likened to the social status that comes with being part of a company that is in the cryptocurrency space.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+The Bitcoin-only charity, Pineapple Fund, appeals to the Reddit community for BTC contributions for MDMA-based drug trials with PTSD sufferers.
+News
+Pineapple Fund, a Bitcoin-only charity, has promised to match up to $4 mln in donations to a non-profit for MDMA-based PTSD research.
+The non-profit leading the research, the Multidisciplinary Association for Psychedelic Studies (MAPS), is seeking $25 mln in donations for Phase 3 of their drug trials. MAPS hopes to use MDMA-assisted psychotherapy as an effective treatment for PTSD sufferers.
+The Pineapple Fund was created in early December 2017 by an anonymous donor who goes by the Reddit handle /u/PineappleFund. The donor presents themselves as an early Bitcoin adopter whose goal is to give $86 mln, or 5057 bitcoins, of earnings to charity.
+A Jan. 10 Reddit post by /u/PineappleFund calls for donations to MAPS and announces the $4 mln pledge. The post also explains the usefulness of the MAPS trials due to what the anonymous donor sees as a lack of effective FDA-approved treatments for those suffering from PTSD.
+/u/PineappleFund appeals to the cryptocurrency community to send Bitcoin or fiat payments as donations to MAPS:
+“If you believe that psychedelic drugs can have incredible therapeutic potential, then I believe this is one of the highest impact projects today.”
+The anonymous donor then concludes:
+“I believe we, the cryptocurrency community, can fully fund Phase 3 trials. Prescription MDMA could be a gift to this world from the bitcoin community.”
+FDA approval for these experimental therapies is expected by 2021, pending positive results of the Phase 3 trials.
+Pineapple Fund already gave 59.89 bitcoin, with a value of $1 mln at the time of donation, to MAPS on December 14, 2017. According to the Fund’s website, so far approximately $20 mln has been donated to 23 organizations, including the Internet Archive, a NGO financing universal health care, and a philanthropic blockchain technology company.
+Pineapple Fund is not the only Bitcoin-only charity: BitHope, a Bulgarian-based NGO, exclusively accepts cryptocurrency to fund crowdsourced campaigns on its site. Other Bitcoin-based charities include BitGive and CommonCollection.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+The North American Bitcoin Conference in Miami has stopped accepting Bitcoin for tickets, citing “network congestion” and “manual processing” 
+Brief
+The North American Bitcoin Conference has stopped accepting cryptocurrency payments for ticket purchases due to “network congestion.”
+A notice on the official website of the annual event, which will be held Jan. 18 and 19 in Miami, also cited “manual processing” of cryptocurrency payments as part of why the event’s organizers decided to accept fiat payments only for last-minute bookings. The statement from the organizers reads:
+“Due to network congestion and manual processing, we have closed ticket payments using cryptocurrencies — Hopefully, next year there will be more unity in the community about scaling and global adoption becomes a reality.
+We have, and always will, accept cryptocurrencies for our conferences, up to fourteen days before the event. However, due to the manual inputting of data in our ticketing platforms when paid in cryptocurrencies, we decided to shut down Bitcoin payments for last minute sales due to print deadlines.”
+The move is an unlikely one for the stalwart event and underlines the continued struggle Bitcoin users face with transaction fees and confirmation times.
+Bitcoin Core developers announced a full SegWit technology implementation to address complaints about the Bitcoin network’s speed and fees in the client’s 0.16.0 release due in May 2018.
+The addition of SegWit-compatible Bitcoin addresses allows users to send coins at a fraction of the cost of standard ‘legacy’ addresses.
+Frustrated Bitcoin users are already pressuring major businesses to adopt SegWit technology to help reduce costs and queues. A petition demanding that Coinbase upgrade to SegWit as a priority has accrued almost 7,500 signatures.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+Oju Hospitality Group Launches ICO – “OjuT - The Travel Coin” - May Rival Bitcoin - Self-Invented Blockchain Technology and Proof of Stake Algorithms.
+Press Release
+Oju Hospitality Group Launches ICO – “OjuT - The Travel Coin” - May Rival Bitcoin - Self-Invented Blockchain Technology and Proof of Stake Algorithms.
+OjuT is first ICO where tokens can be used to buy properties and redeem goods such as travel products even before the ICO hits the exchange. OjuT Coin will enable seamless transactions worldwide, connecting the Owner to all aspects of the travel and hospitality world with one coin. 
+Phuket, Thailand - Oju Hospitality Group sent shockwaves through the travel and tourism industry today with the launch of a unique ICO that offers a real world eco-system built on top of a real world successful business enterprise with huge global demand and growth. Practical uses for OjuT coin will include booking and payment options for accommodation, transport, tours, attractions, shopping, dining, and much more - all made via the unique OjuT Coin and phone app.
+Oju Hospitality Group plans include developing its own unique 5 stars niche hotel and real estate brands where token owners can invest exclusively via OjuT Coin, thus maintaining a massive demand for coins. Oju Gold (one of several unique niche hotel brands), aims to become The World’s first Cryptocurrency themed hotel. All properties are being designed from the ground up with Crypto-fanatics in mind. This represents a revolution for the current hotel business model and Oju Hospitality Group has already established the important relationships to the Chinese outbound tourist market, the biggest and fastest growing in the world. 
+Oju Hospitality Group has accumulated a real estate portfolio of more than 100 properties on the paradise vacation island of Phuket, Thailand, in the last 5 years. The team driving the project forward consists of an experienced mixture of dedicated business, technical, hospitality and real-estate professionals. In addition, key specialist advisors include Mr. Siri Chomchan, the former vice president of CP (Thailand’s largest company) and Alexandar Borodich, founder of Universa-platform (the world’s fastest blockchain). 
+A selection of current Oju Hospitality properties can be viewed on the popular Airbnb by clicking here.
+During a recent press event, Mr. Wu Di, Founder of Oju Hospitality Group was quoted as saying, “There are many ICO’s out there, this is true. However most of them are built on fantasy and a dream. What we are launching is backed with REAL tangible real estate assets, making this ICO the only REAL deal in REAL life. This is not only in the digital world, it is already in real life in the form of hundreds of beautiful properties in Phuket. Our concept is also unique because it allows Owners to spend OjuT tokens directly, worldwide, within the eco-system, without cashing out to fiat currencies. No other crypto currency comes close in terms of usefulness.” He went on to say, “By putting OjuT in real use in real life on a massive scale, we create a huge demand in coin usage that will drive the price of OjuT up constantly. “The more hotels we build, the more hotel chains we acquire, the more partners in the travel industry we secure, the more daily usage of OjuT there will be, thus the value of OjuT increases exponentially.”
+The teams’ vast knowledge allowed them to use self-invented blockchain technology and Proof of Stake Algorithms in order to provide miners with an unprecedented mining opportunity to make more profit than mining on POW-based blockchain. This combined with the surge in expected OjuT token trading due to holders purchasing travel products with the coin will make this one of the most sought after ICO tokens in history.
+The launch of this ICO is slated for December 8, 2017, at which time the general public can begin purchasing tokens. Market Analysts have been predicting a strong demand for the token which translates to surging prices once it lists on the exchange. It is not too late to join the OjuT ICO, in fact it is just the beginning.
+To learn more about this ICO or the international team at Oju Hospitality Group, visit their official website at OjuT – THE Travel Coin or download their Whitepaper directly by clicking here.
+TelegramFacebookTwitter
+Company name: Oju GroupCompany site: https://oju.ioCompany contacts: ico@ojugroup.com
+ Follow us on Facebook 
+Follow us on Facebook
+  This is a paid press release. Cointelegraph does not endorse and is not responsible for or liable for any content, accuracy, quality, advertising, products or other materials on this page. Readers should do their own research before taking any actions related to the company. Cointelegraph is not responsible, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any content, goods or services mentioned in the press release.  
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+When Goldman Sachs talks, Wall Street and Washington listen. Now Goldman says Bitcoin is real money.
+Breaking news
+White shoe investment bank Goldman Sachs has admitted that Bitcoin and other digital currencies could succeed as real money in developing economies. Goldman strategists wrote in a recent report:
+“In recent decades the U.S. dollar has served its purpose relatively well. [But] in those countries and corners of the financial system where the traditional services of money are inadequately supplied, Bitcoin (and cryptocurrencies more generally) may offer viable alternatives.”
+Nonetheless, the investment bank warns against expecting 2017-level returns:
+“Our working assumption is that long-run cryptocurrency returns should be equal to (or slightly below) growth in global real output—a number in the low single digits. Thus, digital currencies should be thought of as low/zero return or hedge-like assets, akin to gold or certain other metals.”
+This is a remarkable change of tune from the skepticism with which big banks and “mainstream” investors have generally treated digital currency. JPMorgan Chase CEO Jamie Dimon famously called Bitcoin a fraud last year, while legendary billionaire investor Warren Buffett insists that Bitcoin isn’t money and people should stay away. Likewise, hedge fund magnate Ray Dalio dismisses Bitcoin as a bubble.
+Goldman Sachs holds outsized influence in the world of finance and politics. Both The Independent and Al Jazeera refer to Goldman as the bank that controls the world. The Atlantic is only slightly more subtle, referring to Goldman Sachs’ growing influence in the US government as “The Quiet Coup.”
+Likewise, the Huffington Post has written extensively about the “revolving door” between Goldman Sachs and the US government. The publication points out that two Goldman Sachs CEOs - Rubin and Paulson - have served as US Treasury Secretary, and former CEO Jon Corzine became a US senator. Other Goldman alums serve in various positions throughout government and finance.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Receive all Cointelegraph news immediately in Telegram.
+Cointelegraph
+  Advertise  
+With Blockchain becoming a buzzword for the traditional finances, will the market boom again?
+Price Analysis
+The views and opinions expressed here are solely those of authors/contributors and do not necessarily reflect the views of Cointelegraph.com. Every investment and trading move involves risk, you should conduct your own research when making a decision.
+On Jan 9, the photography giant Kodak announced a launch of its cryptocurrency KodakCoin scheduled by the end of the month. This news led to a spike in Kodak stock prices. Yet it’s unpredictable whether it will boost the company’s capitalization, but at least the company has been quick in adopting the technology of the future.
+The jump in Kodak’s stock prices points to the crypto craze infecting even traditional investors. In the past few days, they have lapped up stocks of the companies that have connected with Blockchain or cryptocurrency.
+Even JPMorgan Chase CEO Jamie Dimon, in a recent exclusive interview to Fox Business, stated that he regrets calling Bitcoin a fraud.  
+As traders, our interest is to buy the cryptocurrencies that will offer us maximum profits. Let’s see if we can find out any buy setups.
+On Jan. 8, though the bulls purchased the fall to the 50-day SMA, they could not capitalize on the gains. Recovery attempts faced resistance at the downtrend line and the 20-day EMA. As a result, Bitcoin has again fallen to the 50-day SMA.
+Bitcoin is currently trading at critical support levels, where it has support from the 50-day SMA, the trendline support of the symmetrical triangle and the neckline of the head and shoulders pattern.
+If this support holds, the cryptocurrency is likely to continue to trade inside the symmetrical triangle.
+But if the price breaks down of this critical support zone, a fall to $8,000 is likely, with minor support at $10,705 levels.
+Our bearish view will be invalidated if the BTC/USD pair turns up and breaks above the $17,200 level. But we think there are small chances of that happening.
+Ethereum has broken above $1,310 levels, which was the target objective as mentioned in our previous analysis.   
+We believe that the cryptocurrency will find it difficult to break out of the overhead resistance zone between $1,310 and $1,434. Therefore, traders who have entered long positions at lower levels can book partial profits in this resistance zone.
+We expect the ETH/USD pair to enter a period of correction/consolidation for the next few days.
+In a drop, the resistance line of the ascending channel will be the first support. If this holds, we can expect a few days of range-bound trading.
+Still, we can see a fall to the 20-day EMA if the bears succeed in pushing prices back into the channel.
+Bitcoin Cash continues to trade in the $2,291 - $2,770 range. The attempt to break down failed on Jan. 8.
+Currently, the cryptocurrency has strong buying support. In case the price breaks out of the upper end of the range, it may move to $3,249. Above this level, a retest of the highs is also possible.
+However, if the bulls fail to do that and sustain above the range, range bound action is likely to continue for a few more days. Trading will be volatile inside this range.
+The next trend will start once the BCH/USD pair breaks out or breaks down. On the downside, the $2,000 to $2,291 support zone is important, because if it breaks, a slide to $1,733 and thereafter to $1,200 is likely.    
+We had predicted a fall to $1.40 levels on Ripple on Jan. 6 and today, Jan. 10, the price touched a low of $1.61, which is close to our projected levels.
+The bulls are trying to defend the uptrend line and the 20-day EMA. After more than 50 percent correction within a week, we may see an attempt to bounce. However, we believe that any recovery will face stiff resistance between $2.46 and $2.80.
+If the bulls are unsuccessful in holding the trendline support, a slide to $1.40 is possible, which should hold.
+We expect a few days of the range bound action in the XRP/USD pair.     
+In the medium term, IOTA is range bound between $3.03 and $5.59. However, in the short term, the range has shrunk to $3.03-$4.34.
+The lower end of the range has held for more than a month. Therefore, we believe that the bulls will continue to defend this level and the cryptocurrency will gradually recover to $4.34 and thereafter to $5.59 levels.
+The IOTA/USD pair might become bearish and slide towards $1.70 if this level breaks. But it is quite unlikely.     
+Litecoin continues to trade inside the symmetrical triangle pattern. Trading is likely to be volatile until the price breaks out or breaks down.
+If the LTC/USD pair breaks down from the symmetrical triangle, it will become negative and slide to $175.
+On the upside, the bulls could face stiff resistance in the $280 - $308 zone. We don’t find any trading setups as long as the cryptocurrency trades inside the triangle.
+Though the bulls bought the lows on Jan. 8, the pullback did not find buyers at higher levels. Today, NEM has extended its decline towards the trendline support.
+We believe that the support zone between the 20-day EMA and the trendline is likely to increase buying. A bounce from these levels can’t be ruled out. Yet, we don’t expect to see a rally because chances are the XEM/USD pair will face resistance on every rise.
+We anticipate a range bound trading in NEM for the next few days.
+As forecast earlier, Cardano has declined to the 20-day EMA. With the fall, it has given up more than 61.8 percent of the gains from the latest leg of the rally from 0.00002539 to 0.00009180.
+We believe that the zone between the trendline and the 20-day EMA is likely to act as strong support.
+Hence, a pullback from the support levels can’t be ruled out. Nevertheless, positions should be initiated only on bottom confirmation because if the ADA/BTC pair breaks down of the trendline, it can fall to 0.00002539 levels.
+The market data is provided by TradingView.
+ Follow us on Facebook 
+Follow us on Facebook
+Hide Comments
+ For updates and exclusive offers, enter your e-mail below. 
+Cointelegraph covers Fintech, Blockchain and Bitcoin bringing you the latest news and analyses on the future of money.
+
+
+Thank you for contacting us! We will reply to you as soon as possible.
+Thank you for your interest in our franchise program.
+We are considering your request and will contact you in due course. If you have any further queries, please contact:
+franchise@cointelegraph.com
+
+Starbucks Chairman Howard Shultz said the coffee chain plans to incorporate blockchain technology and digital currencies into its long-term payment technology strategy, and hopes to "expand digital customer relationships."
+Shultz does not, however, believe that bitcoin will play a role in this strategy, remarking that he didn't believe the original cryptocurrency would "be a currency today or in the future."
+He clarified that Starbucks is not developing a digital currency or announcing an investment in blockchain or cryptocurrencies, but would like to use its stature to lend credibility to these technologies.
+Shultz made the remarks in the company's quarterly investor call, which were subsequently reported by diginomica. 
+
+According to the report, he said:
+"I believe that we are heading into a new age, in which blockchain technology is going to provide a significant level of a digital currency that is going to have a consumer application."
+Starbucks, he added, is uniquely positioned to take advantage of the changes.
+"We think we have something to offer the companies that are chasing this, because we are in a position to create the trusted legitimate place in which this could be accepted and possibly take advantage of the mobile payment digital platform that we have created."
+The platform Shultz referred to is Starbucks' mobile payment app, launched in 2015, which enables customers to pay and order in-app, while accruing rewards.
+Mobile payments constitute nearly one third of Starbucks' U.S. transactions, and as a result, Shultz said Starbucks is considering implementing cashless stores in the U.S.
+Starbucks has a history of embracing leading-edge payment solutions. It adopted Square as the exclusive processor of all of its debit and credit card transactions in the autumn of 2012, though the relationship later dissolved.
+Starbucks image via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+StarbucksSquareHoward Shultzpayment solutions
+Nov 16, 2017 at 15:00 | Sujha Sundararajan
+The CFO of mobile payments firm Square has explained why the company launched a bitcoin pilot scheme.
+Nov 15, 2017 at 11:00 | Sujha Sundararajan
+Some users of Square's Cash App have quietly been given the option to buy or sell bitcoin within their accounts, according to reports.
+Aug 14, 2017 at 19:30 | Wolfie Zhao
+Jack Dorsey, the CEO of both Twitter and Square, recently said he believes blockchain can be used to solve problems in a range of different areas.
+Sep 22, 2014 at 19:40 | Pete Rizzo
+Square CEO Jack Dorsey has suggested his company may soon integrate bitcoin into its Square Register POS platform.
+
+
+Do you believe celebrity endorsements help the blockchain industry?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Bitcoin cash (BCH) is trading on the back foot today, with technical analysis suggesting the market risks a bearish breakdown over the weekend.
+At press time, the cryptocurrency has depreciated by 7 percent in the last 24 hours, according to data source OnChinaFX. On Bitfinex, the largest market for BCH/USD trading, bitcoin cash fell to $1,479 today; its lowest level against the dollar since Jan. 17. As of writing, it is trading at $1,599.
+The development follows a sharp recovery from the Jan. 17 low of $1,343, which witnessed a follow-through buying in the subsequent days. However, the move ran out of steam at a high of $2,110 on Jan. 20 and BCH turned lower again, thus creating a lower high pattern (bearish pattern) on the charts.
+That said, the 7 percent drop seen today is largely in line with the weakness in other cryptocurrencies. 
+
+For instance, BCH's rival bitcoin (BTC) has dropped by 5 percent in the last 24 hours. Further, Ripple's XRP token and Stellar's XLM token are down 8 percent each, while ethereum's ETH cryptocurrency is down 2 percent.
+
+The above chart (prices as per Bitfinex) shows:
+Confirmation of head and shoulders breakdown (close below $1,398 - neckline support) would open doors for a drop to $1,100 (Nov. 29 low) and possibly to falling channel support seen sloping lower to $1,050 over the next few days. A violation there would expose support at $851.12 (Nov. 17 low).
+Meanwhile, the 50-day MA of $2,195 could be put to test if the bulls defend the neckline support and prices quickly move above $1,806 (Jan. 22 high).
+On a larger scheme of things, only a daily close (as per UTC) above $2,400 would revive the bull run. Such a move would confirm upside break of the falling channel pattern and could yield $2,900-$3,000.
+Hot air balloon in water image via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+Disclaimer: This article should not be taken as, and is not intended to provide, investment advice. Please conduct your own thorough research before investing in any cryptocurrency.
+
+
+PricesBitcoin Cash
+Jan 26, 2018 at 13:40 | Omkar Godbole
+Bitcoin's price range continues to narrow, but a big move on either side could happen soon, the technical charts suggest.
+Jan 25, 2018 at 12:50 | Omkar Godbole
+Bitcoin bulls seem to have gained an upper hand, but the cryptocurrency is still struggling to find follow-through buying today.
+Jan 24, 2018 at 14:25 | Omkar Godbole
+Having rallied 27 percent in the last 24 hours, Stellar's XLM token is eyeing a bullish breakout on the price charts.
+Jan 24, 2018 at 12:05 | Omkar Godbole
+Persistent demand around the $10,000 mark hints that bitcoin could be building a base for an eventual move to over $13,000.
+
+
+How many people do you think own bitcoin?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Bitcoin's price range continues to narrow with each passing day, but a big move on either side could happen soon, the technical charts suggest.
+Having witnessed a bull reversal on Wednesday, prices on CoinDesk's bitcoin price index (BPI) rose to $11,711 at 03:59 yesterday. It appeared as though bitcoin (BTC) would break above $12,000 and confirm completion of the bottoming process.
+However, prices fell back to $10,889 at 17:59 UTC. Bitcoin bulls made another attempt to regain lost glory, but faced rejection at $11,608 in Asian hours today.
+The failure to capitalize on Wednesday's bull reversal has yielded a drop to a three-day low of $10,321 today. As of writing, BTC is changing hands at around $10,600. The cryptocurrency has depreciated by 4.11 percent in the last 24 hours, says data source OnChainFX. 
+
+Further, the drop from the previous day's high of $11,711 to below $10,500 has neutralized the immediate outlook. A break either up or down would likely set the tone for the next major move.
+
+The above chart (prices as per Coinbase) shows bitcoin has created a symmetrical triangle. It comprises of two converging trendlines, representing a series of sequentially lower peaks and higher troughs. It is a trend continuation pattern, i.e. it usually ends with a big move in the direction of the original trend.
+In BTC's case, the symmetrical triangle is formed in a downtrend (sell-off from a record high of $20,000). So, the narrowing price range (symmetrical triangle) could end with a big move to the downside.
+Such a move would open doors for a slide to $5,232 (target as per the measured height method - the difference between triangle high and low subtracted from the breakdown price/triangle support of $10,480). However, the downside target sounds far-fetched.
+Nevertheless, BTC could revisit $9,000 following confirmation (4-hour close below triangle support) of a downside break of the symmetrical triangle pattern. The relative strength index (RSI) is sloping downwards, suggesting scope for a drop in prices. The key MAs - 50, 100, 200 - are sloping downwards in favor of the bears. So, the downside break looks likely as per the 4-hour chart.
+That said, the dips below the $10,000 mark are to be viewed with caution says the daily chart.
+
+So far, the bears have consistently failed to keep BTC prices under $10,000. Also, BTC has been able to avoid a daily close (as per UTC) below $10,391 (50 percent Fibonacci retracement of 2017 low to high). Further, the rising trendline (drawn from July low and September low) support is lined up at $9,370.
+So, there is always a risk of BTC running into bids anywhere between $9,000 to $10,000.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Coinbase.
+Steps with arrows image via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+Disclaimer: This article should not be taken as, and is not intended to provide, investment advice. Please conduct your own thorough research before investing in any cryptocurrency.
+
+
+PricesBitcoin
+Jan 26, 2018 at 15:35 | Omkar Godbole
+Technical analysis suggests that bitcoin cash could see a further decline ahead, but that bull scenarios are also in play.
+Jan 26, 2018 at 13:15 | Michael del Castillo
+Sia Nader's Cryptolux, a cryptocurrency fund-of-funds, aims to take advantage of lessons he drew in the 2008 crash – including the value of…
+Jan 26, 2018 at 05:00 | Rachel Rose O'Leary
+Early use of the Lightning Network is catching bugs, but developers are concerned that it could also slow down the building of bitcoin's second layer.
+Jan 25, 2018 at 17:15 | Sujha Sundararajan
+The fintech chief at the Monetary Authority of Singapore believes bitcoin won't cause a financial meltdown like the 2008 Lehman Brothers bankruptcy.
+
+
+What will be the hottest sector of blockchain this fall?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Blockchain security startup BitGo is acquiring a digital asset custodian based in South Dakota that holds more than $12 billion in assets.
+The firm announced today that it had struck a deal, subject to final approvals, to acquire the Kingdom Trust Company as well as Kingdom Services. The acquisition comes on the heels of BitGo's $43 million Series B funding round in December.
+Kingdom Trust, according to its website, serves over 100,000 clients, focusing on institutional-centered custody services as well as self-directed individual retirement accounts (IRAs).
+Speaking to CoinDesk, BitGo CEO Mike Belshe positioned the move as one geared toward a growing interest among institutional clients, with the problem of custody (and regulatory compliance) being at top of mind for some of those eyeing the market. 
+
+"That wall of institutional money cannot hit until that custodianship is met, and this is the first custodian for U.S. folks," he said. "Going forward, as a new time of investors in crypto comes along — which is asset managers and hedge funds — they don't have the technical depth. They have other skills, and we want to bridge that."
+While the business terms of the deal are complete, the sale is still awaiting regulatory approval.
+"All the commercial terms are done," Belshe added.
+While the terms of the deal are not being disclosed at this time, the acquisition comes after the two companies had worked together for years. Previously, BitGo had provided cold storage for Kingdom Trust's bitcoin, ethereum and other asset holdings, Belshe told CoinDesk. Indeed, both firms had previously partnered with BitcoinIRA to create products around the cryptocurrency.
+He also pointed to the U.S. Securities and Exchange Commission's move to explain its concerns with possible cryptocurrency exchange-traded funds (ETFs). Belshe said the Kingdom Trust acquisition could possibly facilitate the creation of cryptocurrency ETFs given the focus on custody, he said.
+To further support this possibility, last month, BitGo added strategic investor and outspoken bitcoin ETF advocate Don Wilson as an advisor.
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in BitGo.
+Bank vault image via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+BitGoKingdom Trust
+Dec 11, 2017 at 14:00 | Michael del Castillo
+The maker of multi-signature cryptocurrency wallets turned profitable this year, as the institutional user base it had long courted finally arrived.
+Oct 24, 2017 at 16:00 | Marc Hochstein
+Blockchain startup Civic is to provide identity verifying services for wallets used to store the U.K. Royal Mint's gold-backed cryptocurrency.
+Apr 12, 2017 at 20:34 | Garrett Keirns
+Testing has begun on a blockchain-based gold trading platform backed by the UK's Royal Mint.
+Jan 28, 2017 at 18:03 | Jameson Lopp
+Ledger's new hardware wallet is the most costly on the market. Does it have the features to justify the expense? BitGo's Jameson Lopp investigates.
+
+
+Which cryptocurrency would you use to send a transaction you did not want anyone to know anything about?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Cryptocurrencies took the stage Thursday at the World Economic Forum (WEF) in Davos, Switzerland, with the global elite event featuring a discussion that centered primarily on the question of whether bitcoin is a currency.
+The panel, dubbed "The Crypto-Asset Bubble," featured Cecilia Skingsley, deputy governor of Sweden's central bank; Jennifer Zhu Scott, Radian Partners principal; Neil Rimer, Index Ventures general partner and co-founder; and Robert Shiller, the Nobel Prize-winning economist. The session was moderated by Yang Yanquing, deputy editor-in-chief of Chinese finance media conglomerate Yicai.
+Shiller, who previously said he thought bitcoin was too ambiguous to put a price on, called the cryptocurrency a "really clever idea" during the event, but suggested that the tech might be better applied elsewhere.
+"I'm impressed by the technology," he remarked. "And it is spreading in certain quarters, there are certain people who love this. But it seems to me it's technology for something else. It's gone viral as a currency. Blockchain is important, but it's not stable." 
+
+Scott struck a critical tone, calling bitcoin "a very lousy currency." Skingsley echoed this sentiment, arguing that a currency needs to have price stability and widespread acceptance in order to be efficient.
+She continued:
+"In my view, cryptocurrencies – bitcoin and the others – they don't meet the criteria for money. They can be called an asset but they're not a stable store of value, they fluctuate a lot, and you can't use them as a medium of exchange."
+Index Ventures' Rimer called bitcoin "one of the most audacious, generous and profound inventions" that he has ever seen, pointing out that it is only nine years old. He then went on to offer a rebuttal of sorts to the more critical take.
+"We're nine years into this experiment. It's gone well at times and quite poorly. It could fail completely and go to zero, but it has accomplished a number of things I think are remarkable," he said during the panel.
+Scott later commented on the discussion around price movements – mentioning the rise above $10,000 in particular – as a kind of distraction to the bigger picture involved.
+She remarked:
+"The fact that people keep talking today that bitcoin is below 10,000, it's a disaster, or bitcoin is above 10,000 and that's crazy. I think the fact that bitcoin is still alive, and attracting so much attention, the fact that we’re talking about bitcoin in Davos with a Nobel Prize winner, a central bank governor and a seasoned investor, I think that's a powerful tool."
+While the panelists seemed to agree on bitcoin's nature, there was a note of uncertainty about its future between those on the panel.
+Scott implied that a stable cryptocurrency in 10 years might look drastically different from bitcoin today, comparing it to discussions about MySpace's success a prior ago. Rimer advocated for more regulation, saying that any truly innovative technology would need to work within existing regulatory frameworks – or at least push against them "responsibly" – in order to leave a lasting impact.
+The WEF event has thus far featured a range of comments from world leaders on the topic of crypto, including U.K. Prime Minister Theresa May and U.S. Treasury Secretary Steve Mnuchin.
+Panel image via the World Economic Forum
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+Robert ShillerWorld Economic ForumDavosWEFCecilia SkingsleyJennifer Zhu ScottYang YanqingNeil Rimer
+Jan 25, 2018 at 18:00 | Nikhilesh De
+World leaders have struck a cautionary tone on cryptocurrencies in statements made during the World Economic Forum event in Davos.
+Jul 5, 2017 at 10:00 | Michael del Castillo
+As the World Economic Forum seeks a leadership role in blockchain, a senior executive argues its members still have much to learn.
+Jun 28, 2017 at 09:38 | Michael del Castillo
+The World Economic Forum has published a paper arguing that blockchain stakeholders should organize in a way that would dwarf the largest consortia.
+Nov 9, 2016 at 19:19 | Stan Higgins
+The World Economic Forum has created a new working group focused on blockchain co-chaired by the former president of Estonia.
+
+
+
+Which do you think will be live first?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+The fintech chief at the Monetary Authority of Singapore (MAS), the country's de facto central bank, has said that bitcoin is unlikely to cause a global financial meltdown similar to the Lehman Brothers bankruptcy in 2008.
+Speaking in an interview with Channel News Asia, MAS chief fintech officer Sopnendu Mohanty said that he does not foresee a bitcoin price collapse triggering a major financial crash, adding there are indications that global regulators are "getting serious" about the cryptocurrency market.
+Mohanty said:
+"We know exactly when to intervene, based on the market size and the demand and transaction volume, and we will come in at the right time. So, I'm not overly worried about getting to some large financial system crisis." 
+
+The fintech head further stated that regulators would come forward to apply regulation on consumer protection amidst hype in the digital currency market.
+MAS has made several statements on cryptocurrencies and initial coin offerings in recent months.
+In December 2017, citing the recent "speculative" escalation in prices across the crypto markets, the monetary authority released a statement advising the public to take "extreme caution" if investing in digital currencies.
+And the previous month, MAS issued guidance on the application of securities laws when it comes to initial coin offerings (ICOs).
+It stated at the time that tokens sold through the ICO model may be considered securities under certain circumstances, according to Singapore's Securities and Futures Act and the Financial Advisers Act.
+Its report included case studies, including a token tied to a computing power-sharing platform (which wouldn't count as a security) and another of on a token connected to a startup investment fund (which would count as a security).
+Lehman Brother image via Wikimedia Commons
+
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+AsiaMASMonetary Authority of SingaporeBitcoin
+Jan 26, 2018 at 13:40 | Omkar Godbole
+Bitcoin's price range continues to narrow, but a big move on either side could happen soon, the technical charts suggest.
+Jan 26, 2018 at 13:15 | Michael del Castillo
+Sia Nader's Cryptolux, a cryptocurrency fund-of-funds, aims to take advantage of lessons he drew in the 2008 crash – including the value of…
+Jan 26, 2018 at 05:00 | Rachel Rose O'Leary
+Early use of the Lightning Network is catching bugs, but developers are concerned that it could also slow down the building of bitcoin's second layer.
+Jan 25, 2018 at 16:00 | Michael del Castillo
+Mobile stock trading provider Robinhood is now providing bitcoin and ethereum trading alongside the traditional assets it offers. 
+
+
+Who should be most fearful after the SEC’s DAO token sale ruling?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Stock trading mobile app provider Robinhood is jumping on the crypto-trading bandwagon.
+Announced today, the company, which was founded in 2013 as a way to democratize stock trading, said it plans to roll out bitcoin and ether trading services via its mobile apps next month. Not only does the company hope to attract cryptocurrency enthusiasts to its more traditional products, but it's also launching the service to catch some of the momentum cryptocurrency has seen as of late.
+"We've come to understand that cryptocurrencies as an asset have exhibited clear and underlying resiliency and have integrated themselves as part of a diversified and balanced portfolio," Robinhood co-founder and CEO Vlad Tenev told CoinDesk.
+To start with, the service will only be offered to users in California, Massachusetts, Missouri, Montana and New Hampshire, but more states are set to follow. 
+
+The company, which is regulated in the U.S. by the SEC and the Financial Industry Regulatory Authority (Finra), plans to offer the crypto trading service for free. Plus, it promises instant transfers on cryptocurrency purchases for amounts of $1,000 or less, a significant improvement on the time it generally takes for people to buy cryptocurrency for the first time.
+Tenev explained:
+"We view entering crypto as a way to extend our user base and build our brand."
+While offering the service for free could seem risky, Tenev said, the company hopes to attract investors from the $550 billion cryptocurrency industry to the platform and its products, which already provide revenue streams.
+Specifically, the firm charges for a premium service called Robinhood Gold that enables margin trading and after-hours trading. The company also generates revenue by collecting interest on cash and securities in user accounts similar to a traditional bank.
+Having raised a total of $176 million in venture capital, the crypto functionality is in line with Robinhood's push to add more products to its offering. Last month, the firm rolled out options trading and a month earlier, it added a web-based platform to its mobile services.
+But the move isn't just about luring cryptocurrency enthusiasts to its traditional products, it's also about giving users normally focused on traditional investment vehicles exposure to cryptocurrency.
+According to Tenev, the firm recently crossed 3 million accounts and $100 billion in total transacted volume.
+Speaking to the company's interest in bringing together traditional assets with nascent crypto assets, Tenev said:
+"We envision a world where people can have your cryptos alongside your stocks, ETFs, and more."
+Robinhood has not built its own cryptocurrency wallet, but will be using a third-party provider. While Robinhood will manage custody of the cryptocurrencies on the user’s behalf, Tenev said the company does not intend to make investments with the cryptocurrency its customers store.
+While Robinhood customers will only have access to bitcoin and ethereum trading, effective immediately, the company will let customers add 16 different cryptocurrencies (bitcoin and ethereum included) to their "watchlist," a feature allowing them to monitor market data, read related news and create price alerts.
+Other coins that can be added to the watchlist are bitcoin cash, litecoin, XRP (Ripple), ethereum classic, zcash, monero, dash, stellar, qtum, bitcoin gold, omisego, NEO, lisk, and dogecoin.
+For now, Tenev isn't revealing any possible plans to start trading those other currencies, however, he said that a "listing committee" had been established to analyze factors such as security, functionality and demand to assess cryptocurrencies that could be added to the trading functionality or the market data list.
+And, while the company is interested in adding new cryptocurrencies to its trading platform, Tenev said Robinhood would not be adding more complicated asset classes tied to crypto, such as bitcoin or ethereum futures.
+He said:
+"We're focused right now on the coins themselves, and I think in the near future we anticipate adding a variety of other coins before we extend to new asset classes."
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Ripple and Zcash Company, the for-profit entity that develops the zcash protocol.. 
+App graphic via Robinhood
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Interested in offering your expertise or insights to our reporting? Contact us at news@coindesk.com.
+
+
+EthereumBitcoinTradingMarketsRobinhood
+Jan 26, 2018 at 17:10 | Rachel Rose O'Leary
+Ethereum is getting closer to deploying new technology that would allow the network to scale, its founder Vitalik Buterin said. 
+
+Jan 26, 2018 at 13:40 | Omkar Godbole
+Bitcoin's price range continues to narrow, but a big move on either side could happen soon, the technical charts suggest.
+Jan 26, 2018 at 13:15 | Michael del Castillo
+Sia Nader's Cryptolux, a cryptocurrency fund-of-funds, aims to take advantage of lessons he drew in the 2008 crash – including the value of…
+Jan 26, 2018 at 05:00 | Rachel Rose O'Leary
+Early use of the Lightning Network is catching bugs, but developers are concerned that it could also slow down the building of bitcoin's second layer.
+
+
+What category of decentralized applications are you most interested in?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Blockchain Capital announced today that bitcoin developer Jimmy Song has joined the company as a venture partner.
+With his expertise around cryptocurrency technology, Song's addition is aimed to provide technical assistance to the firm's investment research efforts, as well as build bridges between Blockchain Capital and crypto developers, according to a press release. He will also head upcoming programs to advance blockchain innovations.
+The blockchain industry has been evolving differently from the internet, stated co-founder and managing partner of Blockchain Capital, Bart Stephens. This difference, he said, has made possible for developers and engineers to stand at the forefront of innovation.
+With Song's addition to the firm, Stephens continued: 
+
+"Jimmy has demonstrated a deep commitment to the crypto development community. These 'unsung heroes' push the innovation envelope and bring to market much of the technology and services that comprise the blockchain and crypto industry today."
+Aside from his bitcoin development work, Song has served as a principal architect at blockchain firm Paxos, as well as vice president of engineering at open-source wallet management platform Armory Technologies.
+At present, Song also runs a training company called Programming Blockchain, that provides blockchain programming and development training. He is also the author of "Bitcoin Tech Talk," a cryptocurrency-focused blog.
+With his new role, Song stated that his passion for cryptocurrency industry grew two years after bitcoin was founded in 2009.
+"At that time, the community was relatively small and comprised of a core group of developers willing to volunteer their time and intellectual capital for the good of the industry. Now, the ecosystem has soared past numerous milestones," he said.
+Shaking hands image via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+Blockchain CapitalJimmy Song
+Oct 26, 2017 at 13:00 | Pete Rizzo
+Orchid Labs has attracted big investors to its vision of a more private internet, revealing millions already raised in a private token sale.
+Apr 10, 2017 at 13:15 | Michael del Castillo
+A new blockchain token sale showcases how innovations in protocol design, coupled with regulatory advances, could disrupt VC.
+Apr 5, 2017 at 10:00 | Garrett Keirns
+Venture firm Blockchain Capital has released new details about a forthcoming token sale aimed to raise money for its new startup fund.
+Mar 16, 2017 at 12:38 | Aaron Stanley
+Industry VC fund Blockchain Capital plans to raise a new fund in part by creating a digital token and selling it by way of an ICO.
+
+
+How many people do you think own bitcoin?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Bitcoin bulls seem to have gained an upper hand, but the cryptocurrency is still struggling to find follow-through buying today.
+On Wednesday, CoinDesk's Bitcoin Price index (BPI) closed (as per UTC) 5.15 percent higher at $11,399. The positive close above $11,000 adds credence to the solid defense of the $10,000 mark seen earlier this week.
+That said, the follow-through is not necessarily encouraging.
+The BPI clocked a high of $11,711 at 03:59 UTC today before falling back below $11,200. As of writing, the BPI stands at $11,350. The cryptocurrency has appreciated by 3 percent in the last 24 hours, says data source OnChainFX. 
+
+
+A bullish doji reversal occurs when a doji candle (as seen on Tuesday) is followed by a positive price action (yesterday's 5 percent gain).
+So, the short-term outlook is bullish. Still, there is merit in being cautious.
+Comments on social media indicate the investor community is not convinced by previous day's bullish price action and wants to see a sustained move above $11,500 before calling a bottom. The argument has substance says the chart below.
+
+The above chart (prices as per Coinbase) shows-
+Disclosure: CoinDesk is a subsidiary of Digital Currency Group, which has an ownership stake in Coinbase.
+Dollar bills via Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+Disclaimer: This article should not be taken as, and is not intended to provide, investment advice. Please conduct your own thorough research before investing in any cryptocurrency.
+
+
+PricesBitcoin
+Jan 26, 2018 at 15:35 | Omkar Godbole
+Technical analysis suggests that bitcoin cash could see a further decline ahead, but that bull scenarios are also in play.
+Jan 26, 2018 at 13:40 | Omkar Godbole
+Bitcoin's price range continues to narrow, but a big move on either side could happen soon, the technical charts suggest.
+Jan 26, 2018 at 13:15 | Michael del Castillo
+Sia Nader's Cryptolux, a cryptocurrency fund-of-funds, aims to take advantage of lessons he drew in the 2008 crash – including the value of…
+Jan 26, 2018 at 05:00 | Rachel Rose O'Leary
+Early use of the Lightning Network is catching bugs, but developers are concerned that it could also slow down the building of bitcoin's second layer.
+
+
+What category of decentralized applications are you most interested in?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
+
+Ottawa police are seeking two suspects after an attempted armed robbery at a cryptocurrency exchange.
+Three people entered the offices of Canadian Bitcoins in Ottawa carrying handguns and restrained four employees on Tuesday morning, according to CBC News. At that point, they attempted to compel one of the employees to make an outbound transaction from the exchange. A fifth employee called police before any assets could be taken, police told the news service.
+One suspect has been arrested and charged, according to police. The charges include robbery with a firearm and forcible confinement.
+The names of the suspects were not released. 
+
+CBC News reported in a Facebook post that the suspects were looking for physical cash, but other armed robberies have successfully made off with cryptocurrency wallets.
+The New York District Attorney's Office filed armed robbery and kidnapping charges against New Jersey native Louis Meza after he allegedly stole more than $1.8 million of ether last November. In the filing, the DA's office claimed Meza held his victim at gunpoint, forcing him to turn over a cell phone and private keys, which he used to access the victim's digital wallet.
+Ottawa police image via jiawangkun / Shutterstock
+
+The leader in blockchain news, CoinDesk is an independent media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. Have breaking news or a story tip to send to our journalists? Contact us at news@coindesk.com.
+
+
+CrimeTheftarmed robberyCanadian Bitcoins
+Jan 26, 2018 at 23:05 | Nikhilesh De
+Though the Coincheck theft may superficially resemble 2014's Mt. Gox hack, the impact on cryptocurrencies is not nearly as significant.
+Jan 22, 2018 at 10:00 | Sujha Sundararajan
+The IMF has voiced concerns over the risks involved with cryptocurrencies and has called for global talks and cooperation.
+Jan 19, 2018 at 18:15 | Stan Higgins
+Bulgaria's government has revealed it is part of an international crackdown of OneCoin.
+Jan 19, 2018 at 14:09 | Wolfie Zhao
+The U.S. Commodity Futures Trading Commission brought two lawsuits against allegedly fraudulent cryptocurrency investment schemes yesterday.
+
+
+Which cryptocurrency would you use to send a transaction you did not want anyone to know anything about?
+
+
+I would like to receive the following emails:
+
+ CoinDesk Weekly - Insights for the week ahead
+
+
+ CoinDesk Daily - Our snapshot of the day's news
+
+
+Subscribe to our free newsletter and follow us
