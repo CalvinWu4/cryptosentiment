@@ -23,9 +23,9 @@ def collect_mainstream(type):
         # print get_single_item_text_data(element['url']).encode('utf-8')
         text += get_single_item_text_data(element['url']).encode('utf-8')
 
-    return text[:45000]
-    text_file.write(text[:45000])
-    text_file.close()
+    return text[:22000]
+    # text_file.write(text[:45000])
+    # text_file.close()
 
 if __name__ == '__main__':
     cryptocurrency = 'stellar-crypto'
