@@ -60,7 +60,8 @@ class DataHandler(webapp2.RequestHandler):
         specialized_analysis_result = get_sentiment_analysis(text_specialized)
 
         # get data from reddit posts
-        reddit_result = get_sentiment_analysis(getSubmissionsText())
+        text_reddit = getSubmissionsText(name.replace(' ', ''))
+        reddit_result = get_sentiment_analysis(text_reddit)
 
         average_neg = (mainstream_analysis_result['probability']['neg'] + specialized_analysis_result['probability']['neg']) + reddit_result['probability']['neg'] / 3.0
         average_neutral = (mainstream_analysis_result['probability']['neutral'] + specialized_analysis_result['probability']['neutral']) + reddit_result['probability']['neutral'] / 3.0

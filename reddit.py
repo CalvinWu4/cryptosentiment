@@ -1,18 +1,18 @@
 import praw
 
-def getSubmissionsText():
+def getSubmissionsText(name):
     r = praw.Reddit(client_id='Ad0uCgzte8_czQ',
                     client_secret='GupwwnCEzEFKH9Se926xi_ZY77A',
                     user_agent='cryptoapp by /u/NeonCrayon1')
 
-    submissions = r.subreddit('cryptocurrency').top(limit=50)
+    submissions = r.subreddit(name).top(limit=50)
 
-    arr = []
+    result = ""
     for submission in submissions:
-        arr.append(submission.selftext)
+        result += submission.selftext + ". "
         # print "=" * 30
 
-    return arr
+    return result
 
 if __name__ == '__main__':
     print getSubmissionsText()
