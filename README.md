@@ -1,19 +1,11 @@
 # crypto-sentiment
-Python webapp that shows the public sentiment on various cryptocurrencies.
+Python webapp that compares sentiment of the top 10 market cap cryptocurrencies between different types of media sources (mainstream media, cryptocurrency-focused media, and social media).
 
-Articles on various cryptocurrencies were collected from three types of sources: mainstream media, chat forums, and specialized media.
+Our sources for mainstream media come from the Google News API. 
 
+Our sources for cryptocurrency-focused media are coindesk.com & cointelegraph.com, the data for which we extracted using the Beautiful Soup web scraper. 
 
-Mainstream Media source: Google news api
-
-Chat Forum source: Reddit api
-
-Specialized Media sources: coindesk.com & cointelegraph.com
-
-
-In most cases, text on each type of cryptocurrency was acquired by interacting with public api thorugh get/post HTTP requests, 
-but in some cases it was required to parse through the HTML code using Beautiful Soup.
-
+Our source for social media is Reddit and we used its API to extract the top 50 posts (first two pages) for sentiment analysis.
 
 The text commentary on each type of coin was placed into three text files, one for each type of source. 
 The text files were sent to the google natural language processing api to determine the salience of the text. Salience is 
