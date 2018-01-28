@@ -10,7 +10,8 @@ Our sources for cryptocurrency-focused media are coindesk.com & cointelegraph.co
 
 Our source for social media is Reddit and we use its API to extract the top 50 posts (top two pages) for sentiment analysis.
 
-We used the API from http://text-processing.com/api/sentiment/ to calculate the sentiment analysis of the different cryptocurrencies. 
+We used the API from http://text-processing.com/api/sentiment/ to calculate the sentiment analysis of the different cryptocurrencies. An object that contains the probability for each label. Neg and pos will add up to 1, while neutral is standalone. If neutral is greater than 0.5 then the label will be neutral. Otherwise, the label will be pos or neg, whichever has the greater probability.
+ 
 
 This app is built using the Python webapp2 framework on the Google Cloud Platform and was created during RIT's BrickHack4 from January 27-28 2018.
 This project is a collaboration between Calvin Wu, Diosdavi Lara, and Daniel Ro.
