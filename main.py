@@ -29,9 +29,6 @@ class MainPage(webapp2.RequestHandler):
         toptencryptos = requests.get('http://api.coinmarketcap.com/v1/ticker/', params=payload)
 
         template_values = {
-            'greetings': 'Hi',
-            'url': 'test_url',
-            'url_linktext': 'test_linktext',
             'cryptos': toptencryptos.json()
         }
         path = os.path.join(os.path.dirname(__file__), 'index.html')
