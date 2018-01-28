@@ -1,6 +1,7 @@
 import requests
 
 def get_salience(content, coin):
+    return 1
     result = requests.post('https://language.googleapis.com/v1/documents:analyzeEntitySentiment?key='
                            'AIzaSyAYinBVEi8o8kXMdayxCWqDFVE0R5WekkU',
                            json={
@@ -9,7 +10,7 @@ def get_salience(content, coin):
  "type": "PLAIN_TEXT"
 },
 "encodingType": "UTF8"
-})
+}, timeout=None)
     result = result.json()['entities']
     for element in result:
         if coin.lower() == element['name'].lower():
