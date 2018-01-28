@@ -103,6 +103,10 @@
       </div>
     </section>
 
+    {% for crypto in cryptos %}
+      <div>{{ crypto.name }}</div>
+    {% endfor %}
+
     <!-- Footer -->
     <footer class="py-5 bg-black">
       <div class="container">

@@ -11,3 +11,4 @@ handlers:
 
 - url: /.*
   script: main.app
+
