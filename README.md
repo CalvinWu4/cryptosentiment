@@ -1,6 +1,6 @@
 # crypto-sentiment
 
-<a href="https://brickhackcrypto.appspot.com">https://brickhackcrypto.appspot.com</a>
+https://brickhackappcrypto.appspot.com
 
 Webapp that compares sentiment of the top 10 market cap cryptocurrencies between different types of media sources (mainstream media, cryptocurrency-focused media, and social media).
 
